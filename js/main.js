@@ -19,7 +19,7 @@ if ($(window).scrollTop() > 100) {
 $(document).ready(function(){
     $('.testimonials').slick({
         infinite: true,
-        slidesToShow: 2,
+        slidesToShow: 3,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 1500,

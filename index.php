@@ -331,12 +331,7 @@ Ship Worldwide<!DOCTYPE html>
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-5">
-            <h2>Our Clients Love Us!</h2>
-            <p class="lead-sm">Join 150+ Brands that trust Fulfillment Ninjas</p>
-            <div class="text-warning mb-3" style="font-size:26px;">
-              <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star-half-stroke"></i>
-            </div>
-            <p>*RATED 4.8 Stars Across TrustPilot, Google, Clutch, WebRetailer & more.</p>
+            <h2>Our Clients Love Us!</h2>                                   
           </div>
           <div class="col-12 col-lg-7">
             <div class="testimonials">
