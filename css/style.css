@@ -208,6 +208,9 @@ h2 {
     color: #000;
     opacity: 0.15;
 }
+.testimonials aside p {
+    padding-top:60px;
+}
 .testimonials .slick-arrow, .customer-review-slider .slick-arrow {
     right: auto;
     left: 16px;
