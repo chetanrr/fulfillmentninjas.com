@@ -331,43 +331,61 @@ Ship Worldwide<!DOCTYPE html>
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-5">
-            <h2>Our Clients Love Us!</h2>                                   
+            <h2>Our Clients Love Us!</h2>
+            <p class="lead-sm">Join 150+ Brands that trust Fulfillment Ninjas</p>
+            <div class="text-warning mb-3" style="font-size:26px;">
+              <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-regular fa-star-half-stroke"></i>
+            </div>
+            <p>*RATED 4.8 Stars Across TrustPilot, Google, Clutch, WebRetailer & more.</p>
           </div>
           <div class="col-12 col-lg-7">
             <div class="testimonials">
               <div>
                 <aside>
-                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aliquid maxime tempora doloribus non harum culpa at, nihil quidem fugiat ullam eius animi consequuntur sed ad. Deserunt ut maxime voluptate!</p>
-                  <h4 class="text-primary">Michael Wilson</h4>
-                  <div class="text-muted">Asheville, NC</div>
+                  <img src="images/client1.png" alt="">
+                  <p>“Fulfillment Ninjas completely transformed our order fulfillment process. Their speed and accuracy are unmatched, and our customers couldn’t be happier with the timely deliveries!”</p>
+                  <h4 class="text-primary"> Emily R.</h4>
+                  <div class="text-muted">Online Boutique Owner</div>
                 </aside>
               </div>
               <div>
                 <aside>
-                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aliquid maxime tempora doloribus non harum culpa at, nihil quidem fugiat ullam eius animi consequuntur sed ad. Deserunt ut maxime voluptate!</p>
-                  <h4 class="text-primary">Michael Wilson</h4>
-                  <div class="text-muted">Greenwood Village, CO</div>
+                  <img src="images/client1.png" alt="">
+                  <p>“We’ve partnered with Fulfillment Ninjas for over a year, and their team has been incredible. They handle our inventory and shipping like true pros, saving us time and money.”</p>
+                  <h4 class="text-primary">James P.</h4>
+                  <div class="text-muted">Health & Wellness Brand Founder</div>
                 </aside>
               </div>
               <div>
                 <aside>
-                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aliquid maxime tempora doloribus non harum culpa at, nihil quidem fugiat ullam eius animi consequuntur sed ad. Deserunt ut maxime voluptate!</p>
-                  <h4 class="text-primary">Michael Wilson</h4>
-                  <div class="text-muted">West Los Angeles, CA</div>
+                  <img src="images/client1.png" alt="">
+                  <p>“Switching to Fulfillment Ninjas was the best decision for our e-commerce business. Their state-of-the-art technology makes tracking and managing orders a breeze!”</p>
+                  <h4 class="text-primary">Liam T.</h4>
+                  <div class="text-muted">Tech Gadget Retailer</div>
                 </aside>
               </div>
               <div>
                 <aside>
-                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aliquid maxime tempora doloribus non harum culpa at, nihil quidem fugiat ullam eius animi consequuntur sed ad. Deserunt ut maxime voluptate!</p>
-                  <h4 class="text-primary">Michael Wilson</h4>
-                  <div class="text-muted">Clifton, NJ</div>
+                  <img src="images/client1.png" alt="">
+                  <p>“We used to struggle with delayed orders and inventory issues, but Fulfillment Ninjas streamlined everything for us. They’ve become an essential part of our business.”</p>
+                  <h4 class="text-primary">Michael G.</h4>
+                  <div class="text-muted">itness Equipment Distributor</div>
                 </aside>
               </div>
               <div>
                 <aside>
-                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aliquid maxime tempora doloribus non harum culpa at, nihil quidem fugiat ullam eius animi consequuntur sed ad. Deserunt ut maxime voluptate!</p>
-                  <h4 class="text-primary">Michael Wilson</h4>
-                  <div class="text-muted">Nashville, TN</div>
+                  <img src="images/client1.png" alt="">
+                  <p>“I love how transparent and organized Fulfillment Ninjas is. The real-time updates on inventory and shipping make it so easy to stay on top of my business.”</p>
+                  <h4 class="text-primary">Olivia J.</h4>
+                  <div class="text-muted">Home Decor Store Owner</div>
+                </aside>
+              </div>
+              <div>
+                <aside>
+                  <img src="images/client1.png" alt="">
+                  <p>“As a startup, we needed a reliable fulfillment partner, and Fulfillment Ninjas exceeded our expectations. They’ve made scaling our business seamless.”</p>
+                  <h4 class="text-primary">Ethan B.</h4>
+                  <div class="text-muted">Eco-Friendly Product Line Creator</div>
                 </aside>
               </div>
             </div>
