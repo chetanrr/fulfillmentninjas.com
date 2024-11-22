@@ -523,3 +523,85 @@ footer .warehouse .col-12 > a:hover {
 .recent-signup-container .col-md-4 span.company { max-width: 100%;}
 
 .our-top-features img {height:80px; width:100px; object-fit: contain; margin-bottom:15px;}
+
+.gallery-slider-wrapper {
+    padding:0 30px;
+}
+.gallery-slider {
+    margin:0;
+    padding:0;
+}
+.gallery-slider-wrapper .slick-prev:before, .gallery-slider-wrapper .slick-next:before {
+    color:var(--body-text);
+}
+
+.about_content_section strong {font-size:22px;}
+.about_content_section ul {
+    margin-left: 21px;
+}
+.about_content_section li {
+    color: #000;
+    font-family: 'Gilroy';
+    font-weight: 400;
+    line-height: 22px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-align: left !important;
+    position: relative;
+}
+.about_content_section ul li:before {content: ''; position: absolute; background-color: #017b41; height: 8px; width: 8px; top: 9px; left: -18px; border-radius: 50px;}
+
+.about_content_section .col-lg-4 {
+    border-right:1px solid #cacaca;
+    border-bottom:1px solid #cacaca;
+    padding: 30px 20px;
+}
+.about_content_section .col-lg-4:nth-child(3), .about_content_section .col-lg-4:nth-child(6) {border-right:0;}
+.about_content_section .col-lg-4:nth-child(4), .about_content_section .col-lg-4:nth-child(5), .about_content_section .col-lg-4:nth-child(6) {border-bottom:0;}
+
+.col-full aside {
+    background-color: #fff;
+    box-shadow: 0 4px 25px 0 rgb(56 70 138 / 15%);
+    border: 2px solid #e1e5ed;
+    padding: 34px 36px 56px 39px;
+    max-width: 276px;
+    margin: 0 15px;    
+}
+.col-full h2 {
+    color: rgb(14, 26, 53) !important;
+    font-size: 18px;
+    font-family: 'Gilroy';
+    font-weight: bold;
+    line-height: 32px;
+}
+.col-full .counter {
+    color: #2047b0;
+    font-size: 36px;
+    font-family: 'Gilroy';
+    font-weight: 800;
+    display: block;
+    position: relative;
+}
+.col-full .default {
+    color: #000;
+    font-size: 18px;
+    font-family: 'Gilroy';
+    margin: 15px 0 20px;
+    font-weight: 500;
+}
+
+.col-last aside {
+    padding:0;
+    height:100%;
+}
+.col-last aside h2 {
+    padding:34px 36px 56px 39px;
+    background-image: url(../images/leaf.jpg);
+    background-repeat: no-repeat;
+    background-position: 83% 64%;
+    background-size: auto;
+    border: none !important;
+    color: white !important;
+    margin:0;
+    height:100%;
+}

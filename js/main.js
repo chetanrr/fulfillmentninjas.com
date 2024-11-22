@@ -34,4 +34,16 @@ $(document).ready(function(){
         autoplaySpeed: 1500,
         cssEase: 'ease'
     });
+
+    $('.gallery-slider').slick({
+        infinite: true,
+        slidesToShow: 12,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        cssEase: 'ease'
+    });
+
+    
+
 });
