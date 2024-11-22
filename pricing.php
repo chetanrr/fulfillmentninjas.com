@@ -68,7 +68,7 @@
                             </table>
                         </div>                        
                     </article>
-                    <a href="#" class="btn price-footer">View Pricing</a>
+                    <a href="#" class="btn price-footer">Contact Sales</a>
                 </aside>
             </div>
         </div>
@@ -153,27 +153,27 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="images/Small-Bin.png" alt="">
+                                <img src="images/Large-Bin.png" alt="">
                                 <div>
-                                    <p class="lead mb-0">$3/mo</p>
-                                    <div>10 x 12 x 8"</div>
-                                    <strong>Small Bin</strong>
+                                    <p class="lead mb-0">$5/mo</p>
+                                    <div>12 x 24 x 12"</div>
+                                    <strong>Large Bin</strong>
                                 </div>
                             </li>
                             <li>
-                                <img src="images/Small-Bin.png" alt="">
+                                <img src="images/Shelf.png" alt="">
                                 <div>
-                                    <p class="lead mb-0">$3/mo</p>
-                                    <div>10 x 12 x 8"</div>
-                                    <strong>Small Bin</strong>
+                                    <p class="lead mb-0">$20/mo</p>
+                                    <div>60 x 24 x 18"</div>
+                                    <strong>Shelf</strong>
                                 </div>
                             </li>
                             <li>
-                                <img src="images/Small-Bin.png" alt="">
+                                <img src="images/pallet.png" alt="">
                                 <div>
-                                    <p class="lead mb-0">$3/mo</p>
-                                    <div>10 x 12 x 8"</div>
-                                    <strong>Small Bin</strong>
+                                    <p class="lead mb-0">$40/mo</p>
+                                    <div>40 x 48 x 55"</div>
+                                    <strong>Pallet</strong>
                                 </div>
                             </li>
                         </ul>
@@ -184,15 +184,18 @@
                 </div>
                 <div class="row mb-5 pb-5">
                     <div class="col-12 col-lg-6">
-                        <h1 class="fw-bold"><span class="text-primary">Step 1:</span> Receiving</h1>
-                        <p class="lead-sm">Once your shipment arrives at our warehouse, we unload and put-away your inventory.</p>
+                        <h1 class="fw-bold"><span class="text-primary">Step 3:</span> Pick & Pack</h1>
+                        <p class="lead-sm">Our picking & packing fee depends on the packaging materials used for shipping your orders.</p>
                         <a href="#" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6">
                         <p class="fw-bold">What packaging will be used to ship your order?</p>
                         <select class="form-select my-4" aria-label="Default select example">
                             <option selected>Bubble Mailer</option>
-                            <option value="1">Corrugated Box</option>                            
+                            <option value="1">Corrugated Box</option>    
+                            <option value="2">Poly Mailer</option>        
+                            <option value="3">Pre-Packaged (Best Rates)</option>
+                            <option value="4">Custom Packaging</option>                    
                         </select>
 
                         <table class="table step-2 fulfillment-table text-center table-spaced">
@@ -202,29 +205,29 @@
                                     <td class="active text-center">Cost</td>
                                 </tr>
                                 <tr>
-                                    <td>First 2 Hours<br></td>
-                                    <td class="active"><span class="price multi-price">FREE</span></td>
+                                    <td>Pick & Pack (includes first item)<br></td>
+                                    <td class="active"><span class="price multi-price">$ 2.50</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Additional Hours</td>
-                                    <td class="active"><span class=" multi-price text_bold" data-usd="40">$40</span> per man-hour</td>
+                                    <td>Extra Picks</td>
+                                    <td class="active"><span class=" multi-price text_bold" data-usd="40">$0.50</span> per item</td>
                                 </tr>
                                 <tr>
-                                    <td>Returns Handling</td>
+                                    <td>Shipping Rates</td>
                                     <td class="bg-dark no-border no-border-top"><a href="#" class="return-pricing text-white text-decoration-none">CLICK HERE</a></td>
                                 </tr>
                             </tbody>
                         </table>
                         <div class="my-3">
-                            <span class="text-primary">Container Unloading?</span> Contact Us for Custom Pricing.
+                            <span class="text-primary">Shipping 1,000+ DTC Orders per month?</span> Contact Us for Custom Pricing.
                         </div>
-                        <i class="fa-solid fa-box text-primary"></i> Boxes, mailers, packaging tape & dunnage cost are included in the pick & pack fee.
+                        <i class="fa-solid fa-box text-primary"></i> Boxes, mailers, packaging tape & dunnage cost are <br><strong>included in the pick & pack fee.</strong>
                     </div>
                 </div>
                 <div class="row mb-5 pb-5">
                     <div class="col-12 col-lg-6">
-                        <h1 class="fw-bold"><span class="text-primary">Step 4:</span> Receiving</h1>
-                        <p class="lead-sm">Once your shipment arrives at our warehouse, we unload and put-away your inventory.</p>
+                        <h1 class="fw-bold"><span class="text-primary">Step 4:</span> Shipping Rates</h1>
+                        <p class="lead-sm">Besides the picking cost, this is the postage rate we will charge to ship your orders.</p>
                         <a href="#" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6">
@@ -240,8 +243,8 @@
                             <li>
                                 <img src="images/usa_flag.png" alt="">
                                 <div>
-                                    <h4 class="mb-0">Shipping from CANADA</h4>
-                                    <div class="my-2">Shipping Prices in Canadian Dollars</div>
+                                    <h4 class="mb-0">Shipping from USA</h4>
+                                    <div class="my-2">Shipping Prices in US Dollars</div>
                                     <a href="#" class="btn btn-primary">View Rates</a>
                                 </div>
                             </li>                          
@@ -250,7 +253,7 @@
                 </div>
                 <div class="row mb-5 pb-5 align-items-center">
                     <div class="col-12 col-lg-6">
-                        <h1 class="fw-bold"><span class="text-primary">Step 5:</span> Receiving</h1>
+                        <h1 class="fw-bold"><span class="text-primary">Step 5:</span> Account Management Fee</h1>
                         <p class="lead-sm">This fee is associated with providing dedicated support to each account on our platform.</p>
                         <div class="acc-profile d-flex gap-3 mb-4">
                             <img src="images/acc-01.png" title="Ahmed" alt="">
@@ -323,12 +326,12 @@
               <h2 class="accordion-header">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                   aria-expanded="true" aria-controls="collapseOne">
-                  Do you integrate with Shopify and Amazon?
+                  Where are your Warehouses Located?
                 </button>
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Yes, we integrate with both.
+                We have locations across the United States and Canada.
                 </div>
               </div>
             </div>
@@ -336,12 +339,12 @@
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Do you offer Amazon FBA Prep Services?
+                  Are your prices in US Dollars or Canadian Dollars?
                 </button>
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  Yes.
+                By default, our prices are in US dollars. You can change the currency by clicking on the flag in Step 2.
                 </div>
               </div>
             </div>
@@ -349,13 +352,64 @@
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  Where are your Fulfillment Centers Located?
+                  How long does it take to get setup?
                 </button>
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                  We have locations in Canada and the United States. To see the exact addresses, click the 'Locations'
-                  button in the header.
+                If you sign-up with us today, you can start sending your inventory as early as tomorrow.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Will I have a dedicated account manger?
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                Yes, we will assign a dedicated Account Manager who will be your primary point of contact for everything you need. They will help you with onboarding as well as provide ongoing support.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  I have a special project, can you quote me for it?
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                Yes, simply click the Contact Sales button below and fill out the form. Our sales team will provide you with a custom price plan.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  What do I have to pay upon signing up?
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                Upon signing up, you will pay a deposit of $500 USD. This will count towards your monthly invoices. Unused balance is 100% refundable.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  I want to signup, what's next?
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                Click the blue "Contact Sales" button on the top right of the page.
                 </div>
               </div>
             </div>
