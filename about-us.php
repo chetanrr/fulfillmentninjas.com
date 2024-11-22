@@ -26,7 +26,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">About Us</div>
-                    <p class="lead pt-3 mb-0">Welcome to SHIPHYPE - The 3PL of choice for modern eCommerce brands!</p>
+                    <p class="lead pt-3 mb-0">Welcome to FULFILLMENT NINJAS - The 3PL of choice for modern eCommerce brands!</p>
                     <hr>
                     <p class="mt-0 pt-0">With locations in Canada and the United States, we get products to your customers faster. We have 65,000 sqft across our locations. We're growing fast and we strongly believe in perfecting the customer experience. Contact our sales team to take your business to the next level!</p>
                     <div class="mb-4 mt-4">
@@ -75,43 +75,41 @@
                     </ul>
                 </div>
                 <div class="col-12 col-lg-4">
-                    <strong>What makes us great?</strong>
+                    <strong>Who is an ideal fit for us?</strong>
                     <ul class="list-unstyled mt-3">
-                        <li>Our software (you will love it).</li>
-                        <li>THE BEST customer service (and it gets better every day).</li>
-                        <li>Our team. From warehouse associates to account managers to sales to HR to accounting, every individual is committed to success.</li>
+                        <li>DTC brands shipping 5,000+ orders per month.</li>
+                        <li>DTC startups</li>
+                        <li>Shopify Brands</li>
                     </ul>
                 </div>
                 <div class="col-12 col-lg-4">
-                    <strong>What makes us great?</strong>
+                    <strong>Who is not a good fit?</strong>
                     <ul class="list-unstyled mt-3">
-                        <li>Our software (you will love it).</li>
-                        <li>THE BEST customer service (and it gets better every day).</li>
-                        <li>Our team. From warehouse associates to account managers to sales to HR to accounting, every individual is committed to success.</li>
+                        <li>Brands with more than 100 SKUs.</li>
+                        <li>FBA Brands doing Online/Retail Arbitrage.</li>
+                        <li>Products over 50lbs.</li>
                     </ul>
                 </div>
                 <div class="col-12 col-lg-4">
-                    <strong>What makes us great?</strong>
+                    <strong>Why we are a better choice?</strong>
                     <ul class="list-unstyled mt-3">
-                        <li>Our software (you will love it).</li>
-                        <li>THE BEST customer service (and it gets better every day).</li>
-                        <li>Our team. From warehouse associates to account managers to sales to HR to accounting, every individual is committed to success.</li>
+                        <li>We only take on customers whom we are confident we can deliver for.</li>
+                        <li>We are obsessed with improving the customer experience.</li>
+                        <li>We are continuously innovating.</li>
                     </ul>
                 </div>
                 <div class="col-12 col-lg-4">
-                    <strong>What makes us great?</strong>
+                    <strong>Why our clients love us?</strong>
                     <ul class="list-unstyled mt-3">
-                        <li>Our software (you will love it).</li>
-                        <li>THE BEST customer service (and it gets better every day).</li>
-                        <li>Our team. From warehouse associates to account managers to sales to HR to accounting, every individual is committed to success.</li>
+                        <li>Everything is simple and easy. From the sign-up process, to onboarding, to custom requests and everything beyond.</li>
+                        <li>Account managers who are experts at fulfilllment, and dedicated to the success of your business..</li>
                     </ul>
                 </div>
                 <div class="col-12 col-lg-4">
-                    <strong>What makes us great?</strong>
+                    <strong>What are some things we are constantly improving?</strong>
                     <ul class="list-unstyled mt-3">
-                        <li>Our software (you will love it).</li>
-                        <li>THE BEST customer service (and it gets better every day).</li>
-                        <li>Our team. From warehouse associates to account managers to sales to HR to accounting, every individual is committed to success.</li>
+                        <li>Acquiring additional warehouses.</li>
+                        <li>Reducing fulfillment cost for our clients.</li>
                     </ul>
                 </div>
             </div>
@@ -127,11 +125,12 @@
             <div class="col-12 col-lg-6 ps-5">
                 <h2 class="fw-bold">Warehouse Locations</h2>                
                 <h5 class="text-primary mb-3">Canada</h5>
-                <p><strong>- Vancouver (Coming soon)</strong></p>
+                <p><strong>- Toronto</strong></p>
+                <p><strong>- Vancouver</strong></p>
                 <hr>
                 <h5 class="text-primary mb-3">USA</h5>
-                <p><strong>- Los Angeles</strong></p>
-                <p><strong>- Miami</strong></p>
+                <p><strong>- California</strong></p>
+                <p><strong>- New Jersey</strong></p>
             </div>          
         </div>
       </div>
@@ -173,16 +172,16 @@
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <h2>Carriers</h2>
-                        <span class="counter">6</span>
-                        <span class="default">Ground and Express Options</span>
+                        <h2>Integrations</h2>
+                        <span class="counter">100+</span>
+                        <span class="default">Direct Marketplace Integration</span>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <h2>Carriers</h2>
-                        <span class="counter">6</span>
-                        <span class="default">Ground and Express Options</span>
+                        <h2>Team Size</h2>
+                        <span class="counter">34</span>
+                        <span class="default">100% Dedicated to Your Success</span>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-3 col-last">
@@ -198,7 +197,7 @@
         <div class="row align-items-center">            
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Why SHIPHYPE?</div>
+                    <div class="display-5 fw-bold">Why FULFILLMENT NINJAS?</div>
                     <p class="lead py-3">With warehouses strategically located on both coasts, we've made it accessible and effortless to offer expedited shipping. In 2025, we plan to open 2 more warehouses in UK and China.</p>                    
                 </article>
             </div>
