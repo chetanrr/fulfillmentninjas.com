@@ -25,9 +25,8 @@
         <div class="row">
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <h1>B2B Fulfillment</h1>
-                    <h2>Ship cartons or pallets</h2>
-                    <p class="lead py-3">We ensure every shipment is delivered according to spec.</p>
+                    <h1>Amazon FBA Prep Service</h1>
+                    <p class="lead py-3">Let us take care of the Prep so you can take care of the growth.</p>
                     <div class="mb-4 mt-4">
                         <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
@@ -87,7 +86,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">FBA Removals</div>
-                    <p class="lead py-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore beatae magnam velit non.</p>                    
+                    <p class="lead py-3">Has Amazon asked you to remove your inventory for some reason? We can store and process your returns for you. Whether you need us to fully inspect your stock, update the labels or just send your inventory back to you, we can do it.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
