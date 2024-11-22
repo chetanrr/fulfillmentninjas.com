@@ -260,13 +260,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Do you integrate with Shopify and Amazon?
+                                    What Integrations do you guys support?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we integrate with both.
+                                We have a direct integration with Shopify, Amazon, WooCommerce, Walmart, Magento, Etsy, eBay and BigCommerce. You can also integrate with our API. Alternatively, you can also upload a CSV file or creating manual orders.
                                 </div>
                             </div>
                         </div>
@@ -274,13 +274,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you offer Amazon FBA Prep Services?
+                                    How often do orders get pulled?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes.
+                                Orders are pulled in real-time, as they come in.
                                 </div>
                             </div>
                         </div>
@@ -288,15 +288,41 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where are your Fulfillment Centers Located?
+                                    Do you have an API connection available?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We have locations in Canada and the United States. To see the exact addresses, click
-                                    the 'Locations'
-                                    button in the header.
+                                Yes. We use GraphQL API.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    What WMS software do you use?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                We use ShipHero.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    What Storage Options do you guys offer?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                We offer Bin, Shelf and Pallet storage.
                                 </div>
                             </div>
                         </div>
