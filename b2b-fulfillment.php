@@ -46,8 +46,8 @@
             </div>
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
+                    <div class="display-5 fw-bold">Orders Shipped On-time</div>
+                    <p class="lead py-3">Most B2B orders get shipped within 24 hours. If you have different requirements, we'll adjust to make sure your orders get shipped out on time.</p>                    
                 </article>
             </div>
         </div>
@@ -57,7 +57,7 @@
         <div class="row align-items-center">            
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
+                    <div class="display-5 fw-bold">Order Customization</div>
                     <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
                 </article>
             </div>
@@ -74,8 +74,9 @@
             </div>
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
+                    <div class="display-5 fw-bold">Experience with Retailers</div>
+                    <p class="lead py-3">We serve all kinds of organizations including schools, government, insurance, big box retailers and manufacturers.
+                    We can connect to 100+ Retailers across USA and Canada.</p>                    
                 </article>
             </div>
         </div>
@@ -85,8 +86,8 @@
         <div class="row align-items-center">            
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
+                    <div class="display-5 fw-bold">Inventory Management</div>
+                    <p class="lead py-3">View inventory levels at all times. As orders get shipped, inventory is updated in real-time.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
@@ -102,8 +103,8 @@
             </div>
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>
+                    <div class="display-5 fw-bold">Ship Cartons or Pallets</div>
+                    <p class="lead py-3">We can ship master cartons, as well as prepare pallets. Every shipment can be customized with packing slips, sticker, and other handling requirements specific to the retailer.</p>
                 </article>
             </div>
         </div>
@@ -114,7 +115,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Integrate with everything</div>
-                    <p class="lead py-3">SHIPHYPE uses SPS Commerce to connect to retailers for EDI-automated workflows.</p>
+                    <p class="lead py-3">FULFILLMENT NINJAS uses SPS Commerce to connect to retailers for EDI-automated workflows.</p>
                     <div class="tick-list">
                         <ul>
                             <li>B2B Orders: We ship orders to big box, and all brick-and- mortar retailers. fulfilling all compliance requirements.</li>
@@ -136,8 +137,8 @@
             </div>
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>
+                    <div class="display-5 fw-bold">Pre-Set Work Requests</div>
+                    <p class="lead py-3">Our dashboard has pre-sets for every type of work request you can think of. No matter what you need done, we can do it.</p>
                 </article>
             </div>
         </div>
@@ -147,8 +148,8 @@
         <div class="row align-items-center">            
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
-                    <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
+                    <div class="display-5 fw-bold">Personalized Support</div>
+                    <p class="lead py-3">We don't believe in ticket-style support. You will have a direct relationship with your account specialist whom you can contact at any time. Partnering with SHIPHYPE gives you the peace of mind and reliability like nothing else.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
@@ -167,7 +168,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="fw-bold">SHIPHYPE makes B2B fulfillment easy</h1>
+                    <h1 class="fw-bold">FULFILLMENT NINJAS makes B2B fulfillment easy</h1>
                 </div>
             </div>
             <div class="row pt-4">
