@@ -154,7 +154,7 @@
                   <div class="mt-4">No Contracts</div>
                 </li>
               </ul>
-              <a href="how-it-works.html" class="btn btn-secondary btn-lg mt-4 px-4 py-3">See How It Works</a>
+              <a href="how-it-works.php" class="btn btn-secondary btn-lg mt-4 px-4 py-3">See How It Works</a>
             </div>
             <div class="col-12 col-lg-6 pe-5">
               <img src="images/Fulfillment-Built-for-Scale_Image.png" class="w-100" alt="">
