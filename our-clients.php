@@ -64,23 +64,69 @@
             <div class="recent-signup-container">
                 <div class="row">
                     <div class="col-12 p-0">
-                        <div class="when">Signed Up in November 2024</div>
+                        <div class="when">Signed Up in October 2024</div>
                     </div>
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
                             <img src="images/A-802.png">
-                            <span class="company">LifeSpan</span>
+                            <span class="company">Quantum</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
                         <div class="h3">Account Highlights</div>
                         <div class="row">
                             <div class="col-md-6">
-                                <li>Office accessories</li>
+                                <li>Adhesive tapes and magnets</li>
+                                <li>B2B Fulfillment</li>
+                                <li>21 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Manual Order Submission</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse : California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Dormotech</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Medical device - sleep lab</li>
+                                <li>B2B Fulfillment</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Manual Order Submission</li>
+                                <li>Business located in Israel</li>
+                                <li>Warehouse : California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Adara Rituals</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Home decor</li>
                                 <li>DTC Fulfillment</li>
-                                <li>5-10 SKUs</li>
+                                <li>44 SKUs</li>
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Shopify</li>
@@ -95,23 +141,115 @@
             <div class="recent-signup-container">
                 <div class="row">
                     <div class="col-12 p-0">
-                        <div class="when">Signed Up in November 2024</div>
+                        <div class="when">Signed Up in September 2024</div>
                     </div>
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
                             <img src="images/A-802.png">
-                            <span class="company">LifeSpan</span>
+                            <span class="company">Wellkids</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
                         <div class="h3">Account Highlights</div>
                         <div class="row">
                             <div class="col-md-6">
-                                <li>Office accessories</li>
+                                <li>Personal care products for kids</li>
                                 <li>DTC Fulfillment</li>
-                                <li>5-10 SKUs</li>
+                                <li>10 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Shopify</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse: New Jersey</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Beauty in a cup</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Instant coffee bags</li>
+                                <li>DTC Fulfillment & FBA</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Shopify, Amazon, Tiktok</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse : California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Ajg International</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>All-Natural African Net Sponge</li>
+                                <li>DTC Fulfillment</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Tiktok</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse : California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Purrfect Place</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Cat tree</li>
+                                <li>DTC Fulfillment</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Amazon</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse : California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Standard Self Care</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Personal care and Beauty products</li>
+                                <li>DTC Fulfillment</li>
+                                <li>7 SKUs</li>
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Shopify</li>
@@ -126,28 +264,143 @@
             <div class="recent-signup-container">
                 <div class="row">
                     <div class="col-12 p-0">
-                        <div class="when">Signed Up in November 2024</div>
+                        <div class="when">Signed Up in August 2024</div>
                     </div>
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
                             <img src="images/A-802.png">
-                            <span class="company">LifeSpan</span>
+                            <span class="company">Movemate Innovations</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
                         <div class="h3">Account Highlights</div>
                         <div class="row">
                             <div class="col-md-6">
-                                <li>Office accessories</li>
+                                <li>Fitness product</li>
                                 <li>DTC Fulfillment</li>
-                                <li>5-10 SKUs</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Shopify</li>
+                                <li>Business located in Canada</li>
+                                <li>Warehouse: Toronto</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">PawWise Co.</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Dog supplements</li>
+                                <li>DTC Fulfillment</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Shopify</li>
+                                <li>Business located in the UK</li>
+                                <li>Warehouse: New Jersey</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Countdown Calendars</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Advent calendars</li>
+                                <li>DTC Fulfillment</li>
+                                <li>3 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Shopify / Squarespace</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse: New Jersey</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">MateLaser</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Laser therapy device</li>
+                                <li>DTC Fulfillment</li>
+                                <li>4 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: WooCommerce</li>
+                                <li>Business located in the US</li>
+                                <li>Warehouse: California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">En Gold</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Furniture and homewares</li>
+                                <li>DTC Fulfillment</li>
+                                <li>50 SKUs</li>
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Shopify</li>
                                 <li>Business located in the US</li>
-                                <li>Warehouse : California</li>
+                                <li>Warehouse: California</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">The Black Clove Enterprise</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Bathroom vanity</li>
+                                <li>DTC Fulfillment</li>
+                                <li>1 SKU</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Wayfair & Own website</li>
+                                <li>Business located in Canada</li>
+                                <li>Warehouse: Vancouver</li>
                             </div>
                         </div>
                     </div>
@@ -157,28 +410,97 @@
             <div class="recent-signup-container">
                 <div class="row">
                     <div class="col-12 p-0">
-                        <div class="when">Signed Up in November 2024</div>
+                        <div class="when">Signed Up in July 2024</div>
                     </div>
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
                             <img src="images/A-802.png">
-                            <span class="company">LifeSpan</span>
+                            <span class="company">Brightraiser</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
                         <div class="h3">Account Highlights</div>
                         <div class="row">
                             <div class="col-md-6">
-                                <li>Office accessories</li>
+                                <li>Snacks</li>
                                 <li>DTC Fulfillment</li>
-                                <li>5-10 SKUs</li>
+                                <li>10 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Own website</li>
+                                <li>Business located in Canada</li>
+                                <li>Warehouse: Vancouver</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Oliezi Outdoors</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Tents & Camping Accessories</li>
+                                <li>DTC Fulfillment</li>
+                                <li>40 SKUs</li>
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Shopify</li>
                                 <li>Business located in the US</li>
-                                <li>Warehouse : California</li>
+                                <li>Warehouse: Los Angeles</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">VSC Design Group</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Branded apparel</li>
+                                <li>DTC Fulfillment</li>
+                                <li>21 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Shopify</li>
+                                <li>Business located in Canada</li>
+                                <li>Warehouse: Vancouver</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row client">
+                    <div class="col-md-4 px-4">
+                        <div class="text-center pt-4">
+                            <img src="images/A-802.png">
+                            <span class="company">Sienvi Fashion</span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 px-4">
+                        <div class="h3">Account Highlights</div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <li>Automotive accessories</li>
+                                <li>DTC Fulfillment</li>
+                                <li>5 SKUs</li>
+                            </div>
+                            <div class="col-md-6">
+                                <li>Channel: Amazon FBM</li>
+                                <li>Business located in Canada</li>
+                                <li>Warehouse: California</li>
                             </div>
                         </div>
                     </div>
