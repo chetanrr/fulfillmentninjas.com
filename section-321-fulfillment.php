@@ -91,13 +91,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Do you integrate with Shopify and Amazon?
+                                    What is Section 321?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we integrate with both.
+                                Section 321 allows for products under $800 to be shipped into the US duty-free.
                                 </div>
                             </div>
                         </div>
@@ -105,13 +105,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you offer Amazon FBA Prep Services?
+                                    How does a shipment become eligible for Section 321?								
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes.
+                                If the commercial invoice value is under $800, the shipment will automatically become eligible.
                                 </div>
                             </div>
                         </div>
@@ -119,15 +119,31 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where are your Fulfillment Centers Located?
+                                    Is there additional paperwork that needs to be done?								
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We have locations in Canada and the United States. To see the exact addresses, click
-                                    the 'Locations'
-                                    button in the header.
+                                    No
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Are there restrictions for specific products?																
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <ol>
+                                        <li>Goods that require inspection before release.</li>
+                                        <li>Goods that are regulated by the FDA, FSIS, USDA, NHTSA.</li>
+                                        <li>Cigarettes, cigars, e-cigarettes, and alcoholic beverages.</li>
+                                    </ol>							
                                 </div>
                             </div>
                         </div>
