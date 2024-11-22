@@ -85,7 +85,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Schedule Shipments</div>
-                    <p class="lead py-3">SHIPHYPE offers complete control for when you want to send out your shipments. We can have all your shipments prepared in advance so they go out exactly when you want them.</p>                    
+                    <p class="lead py-3">FULFILLMENT NINJAS offers complete control for when you want to send out your shipments. We can have all your shipments prepared in advance so they go out exactly when you want them.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
@@ -133,13 +133,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Do you integrate with Shopify and Amazon?
+                                    Do you offer Kitting services?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we integrate with both.
+                                Yes, we are extremely proficient in kitting. Please contact our sales reps for more information.
                                 </div>
                             </div>
                         </div>
@@ -147,13 +147,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you offer Amazon FBA Prep Services?
+                                    Is there a limit to how many items can be added to a kit?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes.
+                                No limits.
                                 </div>
                             </div>
                         </div>
@@ -161,15 +161,41 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where are your Fulfillment Centers Located?
+                                    Can I send my Custom Packaging to your warehouse?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We have locations in Canada and the United States. To see the exact addresses, click
-                                    the 'Locations'
-                                    button in the header.
+                                Absolutely.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Where can I find Pricing?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                You can view our pricing page by clicking 'Fulfillment Pricing' in the top menu.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    What is your Turnaround Time for preparing kits?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                90% of requests are completed within 24 hours.
                                 </div>
                             </div>
                         </div>

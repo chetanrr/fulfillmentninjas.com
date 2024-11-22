@@ -27,6 +27,7 @@
                 <article class="pe-5">
                     <h1>Kitting</h1>
                     <h2>Value added services</h2>
+                    <p>Our team can do all the work required before shipping your orders.</p>
                     <div class="mb-4 mt-4">
                         <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
@@ -138,13 +139,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Do you integrate with Shopify and Amazon?
+                                    Are there any limitations as to what can be done during the kitting request?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we integrate with both.
+                                If there is no requirement for special equipment, we can handle it. If you believe that your request is complex, share it with our sales team and we will provide an answer.
                                 </div>
                             </div>
                         </div>
@@ -152,13 +153,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Do you offer Amazon FBA Prep Services?
+                                    How long does it usually take to assemble the kits?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes.
+                                This varies depending on the exact requirements you have. Once we have assembled a few of your kits, we can provide an accurate estimate on the total time it will take to assemble all the kits required.
                                 </div>
                             </div>
                         </div>
@@ -166,15 +167,41 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Where are your Fulfillment Centers Located?
+                                    Is kitting charged hourly or by the unit?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We have locations in Canada and the United States. To see the exact addresses, click
-                                    the 'Locations'
-                                    button in the header.
+                                We offer both options.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    How can I share instructions for the kitting requests?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                We will provide you with access to our project management platform, where you'll be able to upload instruction decks and videos on how to assemble your kits.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Can I get pictures of the final kits?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Absolutely, you can request this from your Account Manager at any time.
                                 </div>
                             </div>
                         </div>
