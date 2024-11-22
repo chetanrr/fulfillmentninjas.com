@@ -125,12 +125,11 @@
             <div class="col-12 col-lg-6 ps-5">
                 <h2 class="fw-bold">Warehouse Locations</h2>                
                 <h5 class="text-primary mb-3">Canada</h5>
-                <p><strong>- Toronto</strong></p>
-                <p><strong>- Vancouver</strong></p>
+                <p><strong>- Vancouver (Coming soon)</strong></p>
                 <hr>
                 <h5 class="text-primary mb-3">USA</h5>
-                <p><strong>- California</strong></p>
-                <p><strong>- New Jersey</strong></p>
+                <p><strong>- Los Angeles</strong></p>
+                <p><strong>- Miami</strong></p>
             </div>          
         </div>
       </div>
