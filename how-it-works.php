@@ -56,9 +56,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">First section title sample</h1>
-                <h4 class="text-secondary">Fast and reliable order processing with accuracy checks at every step to
-                  ensure each shipment aligns with customer expectations.
+                <h1 class="fw-bold">Send Inventory to our Warehouse</h1>
+                <h4 class="text-secondary">You submit the inventory you will be sending to us through our dashboard. This way, our team is expecting your inventory.
                 </h4>
               </aside>
             </div>
@@ -69,9 +68,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Inventory Management</h1>
-                <h4 class="text-secondary">Gain full control of your inventory with real-time tracking, automated stock
-                  alerts, and forecasting tools to help you avoid stockouts and optimize stock levels.</p>
+                <h1 class="fw-bold">Your Inventory Arrives at our Warehouse</h1>
+                <h4 class="text-secondary">Your inventory arrives at our warehouse in Cartons, Pallets or floor-loaded Containers.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -81,16 +79,104 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Warehousing Solutions</h1>
-                <h4 class="text-secondary">Secure, climate-controlled warehouses strategically located to minimize
-                  shipping times and costs. Our facilities are designed to handle high volumes and complex storage
-                  needs.</p>
+                <h1 class="fw-bold">We Sort and Put-Away Inventory</h1>
+                <h4 class="text-secondary">At this point, our Inbound Manager will reach out to you with the final count.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
               <img src="images/order1.png" alt="">
             </div>
           </div>
+          <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Integration with Sales Channel</h1>
+                    <h4 class="text-secondary">We Integrate Your Sales Channel with our WMS (warehouse management system).</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Orders Start Flowing</h1>
+                    <h4 class="text-secondary">As you get new orders, they start showing up in the fulfillment dashboard.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Orders are Picked & Packed</h1>
+                    <h4 class="text-secondary">Our warehouse team goes to the storage location where your inventory is placed. We pack your orders in the packaging of your choice.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Carrier is Selected via Rate-Shopping</h1>
+                    <h4 class="text-secondary">Our software compares rates in real-time to select the best rate for your packages.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Order is Marked as Fulfilled on FULFILLMENT NINJAS</h1>
+                    <h4 class="text-secondary">As orders are shipped, the status changes to fulfilled on our dashboard.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Order is Marked as Fulfilled on Your Store</h1>
+                    <h4 class="text-secondary">Once the order gets shipped, the status changes to fulfilled on both our side, and your side.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Your Customers Get Tracking Number
+                    Emailed to Them</h1>
+                    <h4 class="text-secondary">As soon as an order is shipped, the customer gets the tracking number emailed to them.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Packages are Picked
+                    Up by Carriers</h1>
+                    <h4 class="text-secondary">At the end of the day, carriers like UPS and FedEx pick up packages from our warehouse and make the final delivery to your customers.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
         </div>
       </section>
     </div>
@@ -100,9 +186,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Second section title sample</h1>
-                <h4 class="text-secondary">Fast and reliable order processing with accuracy checks at every step to
-                  ensure each shipment aligns with customer expectations.
+                <h1 class="fw-bold">Send Inventory to our Warehouse</h1>
+                <h4 class="text-secondary">You submit the inventory you will be sending to us through our dashboard. This way, our team is expecting your inventory.
                 </h4>
               </aside>
             </div>
@@ -113,9 +198,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Inventory Management</h1>
-                <h4 class="text-secondary">Gain full control of your inventory with real-time tracking, automated stock
-                  alerts, and forecasting tools to help you avoid stockouts and optimize stock levels.</p>
+                <h1 class="fw-bold">Your Inventory Arrives at our Warehouse</h1>
+                <h4 class="text-secondary">Your inventory arrives at our warehouse in Cartons, Pallets or floor-loaded Containers.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -125,16 +209,58 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Warehousing Solutions</h1>
-                <h4 class="text-secondary">Secure, climate-controlled warehouses strategically located to minimize
-                  shipping times and costs. Our facilities are designed to handle high volumes and complex storage
-                  needs.</p>
+                <h1 class="fw-bold">We Sort and Put-Away Inventory</h1>
+                <h4 class="text-secondary">At this point, our Inbound Manager will reach out to you with the final count.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
               <img src="images/order1.png" alt="">
             </div>
           </div>
+          <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">You Provide Us with Purchase Orders from Clients</h1>
+                    <h4 class="text-secondary">You submit your orders through the dashboard, or send them to us via EDI.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Order is Prepared</h1>
+                    <h4 class="text-secondary">Our warehouse team starts working on packing and preparing your order.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Carrier Picks Up Order from our Warehouse</h1>
+                    <h4 class="text-secondary">Once the carrier arrives, our warehouse team hands over your order to the carrier so it can be delivered.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
+              <div class="row mb-0">
+                <div class="col-12 col-lg-6 numbered">
+                  <aside class="pe-0 pe-lg-5">
+                    <h1 class="fw-bold">Order Delivered</h1>
+                    <h4 class="text-secondary">The order arrives at your Client/Retailer.</p>
+                  </aside>
+                </div>
+                <div class="col-12 col-lg-6 text-center">
+                  <img src="images/order1.png" alt="">
+                </div>
+              </div>
         </div>
       </section>
     </div>
@@ -144,9 +270,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Third section title sample</h1>
-                <h4 class="text-secondary">Fast and reliable order processing with accuracy checks at every step to
-                  ensure each shipment aligns with customer expectations.
+                <h1 class="fw-bold">Send Inventory to our Warehouse</h1>
+                <h4 class="text-secondary">You submit the inventory you will be sending to us through our dashboard. This way, our team is expecting your inventory.
                 </h4>
               </aside>
             </div>
@@ -157,9 +282,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Inventory Management</h1>
-                <h4 class="text-secondary">Gain full control of your inventory with real-time tracking, automated stock
-                  alerts, and forecasting tools to help you avoid stockouts and optimize stock levels.</p>
+                <h1 class="fw-bold">Your Inventory Arrives at our Warehouse & You Are Notified</h1>
+                <h4 class="text-secondary">Your inventory arrives at our warehouse in Cartons, Pallets or floor-loaded Containers.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -169,10 +293,52 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Warehousing Solutions</h1>
-                <h4 class="text-secondary">Secure, climate-controlled warehouses strategically located to minimize
-                  shipping times and costs. Our facilities are designed to handle high volumes and complex storage
-                  needs.</p>
+                <h1 class="fw-bold">We Sort and Put-Away Inventory</h1>
+                <h4 class="text-secondary">At this point, our Inbound Manager will reach out to you with the final count.</p>
+              </aside>
+            </div>
+            <div class="col-12 col-lg-6 text-center">
+              <img src="images/order1.png" alt="">
+            </div>
+          </div>
+          <div class="row mb-0">
+            <div class="col-12 col-lg-6 numbered">
+              <aside class="pe-0 pe-lg-5">
+                <h1 class="fw-bold">We Do Prep Work (if required)</h1>
+                <h4 class="text-secondary">If you need us to do any prep work, such as FNSKU labelling, polybagging, or anything else, we can do it.</p>
+              </aside>
+            </div>
+            <div class="col-12 col-lg-6 text-center">
+              <img src="images/order1.png" alt="">
+            </div>
+          </div>
+          <div class="row mb-0">
+            <div class="col-12 col-lg-6 numbered">
+              <aside class="pe-0 pe-lg-5">
+                <h1 class="fw-bold">Submit Inventory Forwarding Request</h1>
+                <h4 class="text-secondary">You can upload your carton or pallet labels directly to our dashboard, and we will get your order shipped out.</p>
+              </aside>
+            </div>
+            <div class="col-12 col-lg-6 text-center">
+              <img src="images/order1.png" alt="">
+            </div>
+          </div>
+          <div class="row mb-0">
+            <div class="col-12 col-lg-6 numbered">
+              <aside class="pe-0 pe-lg-5">
+                <h1 class="fw-bold">We Prepare Your Inventory for Pickup by Carrier</h1>
+                <h4 class="text-secondary">Once your items are ready to be picked up, we move them to the staging area near the dock, so they can be picked up by the carrier.</p>
+              </aside>
+            </div>
+            <div class="col-12 col-lg-6 text-center">
+              <img src="images/order1.png" alt="">
+            </div>
+          </div>
+          <div class="row mb-0">
+            <div class="col-12 col-lg-6 numbered">
+              <aside class="pe-0 pe-lg-5">
+                <h1 class="fw-bold">Inventory Picked Up by Carrier</h1>
+                <h4 class="text-secondary">Your inventory is picked up by UPS or LTL carrier, to be delivered to Amazon.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -188,9 +354,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Fourth section title sample</h1>
-                <h4 class="text-secondary">Fast and reliable order processing with accuracy checks at every step to
-                  ensure each shipment aligns with customer expectations.
+                <h1 class="fw-bold">Customer ships package to our warehouse</h1>
+                <h4 class="text-secondary">Your customer drops off the package to the carrier, to be shipped to FULFILLMENT NINJAS warehouse.
                 </h4>
               </aside>
             </div>
@@ -201,9 +366,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Inventory Management</h1>
-                <h4 class="text-secondary">Gain full control of your inventory with real-time tracking, automated stock
-                  alerts, and forecasting tools to help you avoid stockouts and optimize stock levels.</p>
+                <h1 class="fw-bold">Package arrives at FULFILLMENT NINJAS</h1>
+                <h4 class="text-secondary">Once the package arrives at our warehouse, our Inbound Manager will notify you.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -213,10 +377,19 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Warehousing Solutions</h1>
-                <h4 class="text-secondary">Secure, climate-controlled warehouses strategically located to minimize
-                  shipping times and costs. Our facilities are designed to handle high volumes and complex storage
-                  needs.</p>
+                <h1 class="fw-bold">We will provide you Photo of Shipping Label + Contents Inside</h1>
+                <h4 class="text-secondary">This way, you know who the package is coming from, and what is inside so you can make a decision on what to do next.</p>
+              </aside>
+            </div>
+            <div class="col-12 col-lg-6 text-center">
+              <img src="images/order1.png" alt="">
+            </div>
+          </div>
+          <div class="row mb-0">
+            <div class="col-12 col-lg-6 numbered">
+              <aside class="pe-0 pe-lg-5">
+                <h1 class="fw-bold">Decision for Returns Processing</h1>
+                <h4 class="text-secondary">You let us know how you want us to process each return package.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
