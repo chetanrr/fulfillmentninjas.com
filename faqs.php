@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-12 col-lg-2">
                     <ul class="list-group">
-                        <li class="list-group-item"><a href="#about">About SHIPHYPE</a></li>
+                        <li class="list-group-item"><a href="#about">About FULFILLMENT NINJAS</a></li>
                         <li class="list-group-item"><a href="#affiliate">Affiliate Program</a></li>
                         <li class="list-group-item"><a href="#billing">Billing</a></li>
                         <li class="list-group-item"><a href="#">Carriers</a></li>
@@ -47,20 +47,20 @@
                 </div>
                 <div class="col-12 col-lg-10">
                     <!-- tab jump section starts -->
-                    <h3 id="about"><i class="fa-solid fa-circle-info text-secondary"></i> About SHIPHYPE</h3>
+                    <h3 id="about"><i class="fa-solid fa-circle-info text-secondary"></i> About FULFILLMENT NINJAS</h3>
                     <div class="accordion mb-5" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Can FULFILLMENT NINJAS create pallets to be shipped to customers?
+                                    What does FULFILLMENT NINJAS do?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Absolutely. You can submit palletization/pallet building requests directly through the
-                                    dashboard.
+                                FULFILLMENT NINJAS is a 3PL (Third Party Logistics) Company.
+                                We store and ship products from our warehouses. Our clients are DTC brands who sell products online.
                                 </div>
                             </div>
                         </div>
@@ -68,12 +68,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Can orders be shipped in individual boxes?
+                                    Where are your fulfillment centers located?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we can ship individual boxes/cartons.
+                                We have locations in Canada and the United States.
                                 </div>
                             </div>
                         </div>
@@ -81,14 +81,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Do you have your own trucks for LTL transportation?
+                                    What is your exact warehouse address?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Unfortunately, we do not arrange the LTL shipping. However, you can arrange for your own
-                                    trucking companies to pick-up from our warehouse. We can also provide a list of
-                                    recommended trucking companies
+                                You can see our addresses by clicking the 'Warehouse Locations' button the Footer. Note: You MUST NOT send inventory until you have been assigned a warehouse.
                                 </div>
                             </div>
                         </div>
@@ -96,13 +94,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    Do you have EDI capabilities?
+                                    How many warehouses does FULFILLMENT NINJAS have?
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes. We can connect to almost any retailer via SPSCommerce. We can also connect to ERP
-                                    systems.
+                                We have 2 locations in Canada, and 2 in the United States. You can visit our locations page for more information.
                                 </div>
                             </div>
                         </div>
@@ -110,13 +107,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    How quickly can orders be prepared?
+                                    How big are your warehouses?
                                 </button>
                             </h2>
                             <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Most B2B orders are completed within 24 hours. However, this will vary based on the size
-                                    of order.
+                                Our warehouses are ~65,000 sqft across all locations.
                                 </div>
                             </div>
                         </div>
@@ -130,14 +126,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseAffiliate1" aria-expanded="true" aria-controls="collapseAffiliate1">
-                                    Can FULFILLMENT NINJAS create pallets to be shipped to customers?
+                                    How do I make money as an Affiliate?
                                 </button>
                             </h2>
                             <div id="collapseAffiliate1" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Absolutely. You can submit palletization/pallet building requests directly through the
-                                    dashboard.
+                                It's simple. We provide you with your own affiliate link which you can share with other businesses. As clients spend money, you earn recurring, lifetime commission.
                                 </div>
                             </div>
                         </div>
@@ -145,12 +140,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseAffiliate2" aria-expanded="false" aria-controls="collapseAffiliate2">
-                                    Can orders be shipped in individual boxes?
+                                    What is meant by Lifetime Commission?
                                 </button>
                             </h2>
                             <div id="collapseAffiliate2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we can ship individual boxes/cartons.
+                                What is meant by Lifetime Commission?
                                 </div>
                             </div>
                         </div>
@@ -158,14 +153,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseAffiliate3" aria-expanded="false" aria-controls="collapseAffiliate3">
-                                    Do you have your own trucks for LTL transportation?
+                                    What is the Commission Rate?
                                 </button>
                             </h2>
                             <div id="collapseAffiliate3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Unfortunately, we do not arrange the LTL shipping. However, you can arrange for your own
-                                    trucking companies to pick-up from our warehouse. We can also provide a list of
-                                    recommended trucking companies
+                                We offer a 5% commission rate on the monthly spend.
                                 </div>
                             </div>
                         </div>
@@ -173,13 +166,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseAffiliate4" aria-expanded="false" aria-controls="collapseAffiliate4">
-                                    Do you have EDI capabilities?
+                                    Is there a limit to Earnings?
                                 </button>
                             </h2>
                             <div id="collapseAffiliate4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes. We can connect to almost any retailer via SPSCommerce. We can also connect to ERP
-                                    systems.
+                                No. There is no cap on earnings.
                                 </div>
                             </div>
                         </div>
@@ -187,13 +179,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseAffiliate5" aria-expanded="false" aria-controls="collapseAffiliate5">
-                                    How quickly can orders be prepared?
+                                    How often are Payouts made?
                                 </button>
                             </h2>
                             <div id="collapseAffiliate5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Most B2B orders are completed within 24 hours. However, this will vary based on the size
-                                    of order.
+                                Payouts can be requested at any time, as long as the payout is at least $100 USD.
                                 </div>
                             </div>
                         </div>
@@ -207,14 +198,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseBilling1" aria-expanded="true" aria-controls="collapseBilling1">
-                                    Can FULFILLMENT NINJAS create pallets to be shipped to customers?
+                                    When will I be billed for services?
                                 </button>
                             </h2>
                             <div id="collapseBilling1" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Absolutely. You can submit palletization/pallet building requests directly through the
-                                    dashboard.
+                                On the first week of each month, we bill you for the previous month's services. A pre-authorized credit card is also required to be kept on file.
                                 </div>
                             </div>
                         </div>
@@ -222,12 +212,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseBilling2" aria-expanded="false" aria-controls="collapseBilling2">
-                                    Can orders be shipped in individual boxes?
+                                    What payment methods are accepted?
                                 </button>
                             </h2>
                             <div id="collapseBilling2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, we can ship individual boxes/cartons.
+                                Credit Card and Bank Payments.
                                 </div>
                             </div>
                         </div>
@@ -235,14 +225,15 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseBilling3" aria-expanded="false" aria-controls="collapseBilling3">
-                                    Do you have your own trucks for LTL transportation?
+                                    What are your payment terms? Is it Net 30 days?
                                 </button>
                             </h2>
                             <div id="collapseBilling3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Unfortunately, we do not arrange the LTL shipping. However, you can arrange for your own
-                                    trucking companies to pick-up from our warehouse. We can also provide a list of
-                                    recommended trucking companies 
+                            <ul>
+                                <li>We bill at the start of each month for the previous month’s services.</li>
+                                <li>Invoices are due within 7 days.</li>
+                            </ul>
                                 </div>
                             </div>
                         </div>
@@ -250,13 +241,12 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseBilling4" aria-expanded="false" aria-controls="collapseBilling4">
-                                    Do you have EDI capabilities?
+                                    Are your storage fees pro-rated?
                                 </button>
                             </h2>
                             <div id="collapseBilling4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes. We can connect to almost any retailer via SPSCommerce. We can also connect to ERP
-                                    systems.
+                                Yes, our storage fees are pro-rated by the week.
                                 </div>
                             </div>
                         </div>
@@ -264,18 +254,164 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseBilling5" aria-expanded="false" aria-controls="collapseBilling5">
-                                    How quickly can orders be prepared?
+                                    Can I set up pre-authorized payments?
                                 </button>
                             </h2>
                             <div id="collapseBilling5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Most B2B orders are completed within 24 hours. However, this will vary based on the size
-                                    of order.
+                                Yes, absolutely.
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- tab jump section ends -->
+                    <h3 id="billing"><i class="fa-solid fa-circle-info text-secondary"></i> Carriers</h3>
+                    <div class="accordion mb-5" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling1" aria-expanded="true" aria-controls="collapseBilling1">
+                                    What carriers do you use for International shipping?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling1" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                We use UPS, FedEx, DHL and APC for international shipments.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling2" aria-expanded="false" aria-controls="collapseBilling2">
+                                    What carriers do you use in Canada?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                In Canada, we use UPS, FedEx and Canada Post.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling3" aria-expanded="false" aria-controls="collapseBilling3">
+                                    What carriers do you use in USA?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                In the US, we use UPS, USPS and Fedex.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling4" aria-expanded="false" aria-controls="collapseBilling4">
+                                    If I only want to use a certain carrier, is that possible?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Yes, it is, but we don't recommend it. When multiple carriers are enabled, we are able to rate-shop and compare the rates across carriers for each shipment. With single carriers, you lose the ability to save where possible.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling5" aria-expanded="false" aria-controls="collapseBilling5">
+                                    Can I use my own carrier account to ship?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Yes
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <h3 id="billing"><i class="fa-solid fa-circle-info text-secondary"></i>General</h3>
+                    <div class="accordion mb-5" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling1" aria-expanded="true" aria-controls="collapseBilling1">
+                                    Will I have someone I can reach out to as needed?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling1" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                            <ol>
+                                <li>We will assign a dedicated Account Manager who will be your primary point of contact for everything you need.</li>
+                                <li>They will help you with onboarding as well as any other work requests.</li>
+                            </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling2" aria-expanded="false" aria-controls="collapseBilling2">
+                                    Where will my account manager be based?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                            <ol>
+                                <li>Account managers are based in Canada.</li>
+                                <li>Their work hours are aligned with the operating hours of the warehouse you are assigned.</li>
+                            </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling3" aria-expanded="false" aria-controls="collapseBilling3">
+                                    What are your payment terms? Is it Net 30 days?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                            <ul>
+                                <li>We bill at the start of each month for the previous month’s services.</li>
+                                <li>Invoices are due within 7 days.</li>
+                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling4" aria-expanded="false" aria-controls="collapseBilling4">
+                                    Are your storage fees pro-rated?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Yes, our storage fees are pro-rated by the week.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseBilling5" aria-expanded="false" aria-controls="collapseBilling5">
+                                    Can I set up pre-authorized payments?
+                                </button>
+                            </h2>
+                            <div id="collapseBilling5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Yes, absolutely.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
