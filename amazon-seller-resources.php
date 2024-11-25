@@ -40,64 +40,141 @@
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-chart-column"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>300+ eCommerce Fulfillment Centers in USA and Canada</p>
+                        <h5>FBM Fulfillment Centers </h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-file-lines"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below</p>
+                        <h5>Keyword Research Tools</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-bullseye"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Repricing Tools</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-bullseye"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Inventory Management Tools</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-bullseye"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Amazon Seller Podcasts</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-chart-column"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5> Amazon Coaching Services</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-file-lines"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Listing Optimization Tools</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-bullseye"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Analytics Software</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-bullseye"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
-                        <h5>FBA Prep Centers</h5>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Accounting Software</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>PPC/Ads Management</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Email Automation</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Other Tools</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Amazon Chrome Extensions</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Feedback & Review Automation</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Account Suspension/Legal Services</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Facebook Groups for Amazon Sellers</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Funding/Finance Tools</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Product Research Tools</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>eCommerce Platforms</h5>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <aside>
+                        <i class="fa-solid fa-bullseye"></i>
+                        <p>Check out the list we've prepared by clicking the button below.</p>
+                        <h5>Amazon Restricted Brands</h5>
                     </aside>
                 </div>
             </div>

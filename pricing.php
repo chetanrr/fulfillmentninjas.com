@@ -237,7 +237,7 @@
                                 <div>
                                     <h4 class="mb-0">Shipping from CANADA</h4>
                                     <div class="my-2">Shipping Prices in Canadian Dollars</div>
-                                    <a href="#" class="btn btn-primary">View Rates</a>
+                                    <a href="carriers.php" class="btn btn-primary">View Rates</a>
                                 </div>
                             </li>
                             <li>
@@ -245,7 +245,7 @@
                                 <div>
                                     <h4 class="mb-0">Shipping from USA</h4>
                                     <div class="my-2">Shipping Prices in US Dollars</div>
-                                    <a href="#" class="btn btn-primary">View Rates</a>
+                                    <a href="carriers.php" class="btn btn-primary">View Rates</a>
                                 </div>
                             </li>                          
                         </ul>
