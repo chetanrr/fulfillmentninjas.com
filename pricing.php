@@ -257,9 +257,9 @@
                         <p class="lead-sm">This fee is associated with providing dedicated support to each account on our platform.</p>
                         <div class="acc-profile d-flex gap-3 mb-4">
                             <img src="images/acc-01.png" title="Ahmed" alt="">
-                            <img src="images/acc-01.png" title="Bento" alt="">
-                            <img src="images/acc-01.png" title="Tanisha" alt="">
-                            <img src="images/acc-01.png" title="Chetan" alt="">
+                            <img src="images/acc-02.png" title="Bento" alt="">
+                            <img src="images/acc-03.png" title="Tanisha" alt="">
+                            <img src="images/acc-04.png" title="Chetan" alt="">
                         </div>
                         <a href="#" class="btn btn-primary">View FAQs</a>
                     </div>
