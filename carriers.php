@@ -55,12 +55,12 @@
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <img src="images/dhl_logo.png" alt="">
+                        <img src="images/canadapostes_logo.png" alt="">
                     </aside>
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <img src="images/united_logo.png" alt="">
+                        <img src="images/uniuni_logo.png" alt="">
                     </aside>
                 </div>
             </div>
@@ -95,17 +95,17 @@
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <img src="images/feded_logo.png" alt="">
+                        <img src="images/apc_logo.png" alt="">
                     </aside>
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <img src="images/ups_logo.png" alt="">
+                        <img src="images/gls_logo.png" alt="">
                     </aside>
                 </div>
                 <div class="col-12 col-lg-3">
                     <aside>
-                        <img src="images/dhl_logo.png" alt="">
+                        <img src="images/ontrac_logo.png" alt="">
                     </aside>
                 </div>
             </div>
@@ -117,7 +117,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Access the Lowest Shipping Rates Available</div>
-                    <p class="lead py-3">Our aggregate volume allows us to get deep discounts from carriers. When using SHIPHYPE, you get access to these same rates.</p>
+                    <p class="lead py-3">Our aggregate volume allows us to get deep discounts from carriers. When using FULFILLMENT NINJAS, you get access to these same rates.</p>
                     <p>You can also connect your own shipping account so you can leverage your own negotiated rates.</p>
                 </article>
             </div>
@@ -194,7 +194,7 @@
     <section class="pattern-block">
         <div class="container">
             <h1>Solutions for every Business</h1>            
-            <a href="#" class="btn btn-primary btn-lg">View Pricing</a>
+            <a href="pricing.php" class="btn btn-primary btn-lg">View Pricing</a>
         </div>
     </section>
 
