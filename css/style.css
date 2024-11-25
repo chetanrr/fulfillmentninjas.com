@@ -659,6 +659,18 @@ footer .warehouse .col-12 > a:hover {
     color:var(--primary);
     margin-bottom:15px;
 }
+.amazon-resources aside a {
+    text-decoration:none;
+    color: var(--body-text);    
+}
+
+.amazon-resources aside a h5 {
+    margin-bottom:15px;
+    margin-top:10px;
+}
+.amazon-resources aside a p {
+    margin-bottom:0;
+}
 
 .industries-served img {
     object-fit: inherit;
