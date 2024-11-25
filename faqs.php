@@ -242,7 +242,7 @@
                                 <div class="accordion-body">
                                     Unfortunately, we do not arrange the LTL shipping. However, you can arrange for your own
                                     trucking companies to pick-up from our warehouse. We can also provide a list of
-                                    recommended trucking companies
+                                    recommended trucking companies 
                                 </div>
                             </div>
                         </div>
