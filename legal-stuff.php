@@ -19,7 +19,7 @@
     <section class="amazon-resources pt-0">
         <div class="container banner text-center">
             <h1>Legal Stuff</h1>
-            <p>You can also email us: <a href="mailto:legal@shiphype.com">legal@shiphype.com</a></p>
+            <p>You can also email us: <a href="mailto:info@fulfillmentninjas.com">info@fulfillmentninjas.com</a></p>
         </div>
         <div class="container">
             <div class="row">                
@@ -36,8 +36,8 @@
                     <aside>
                         <a href="#">
                             <img src="images/Terms-of-Use.png" alt="">
-                            <h5>Terms of Service</h5>
-                            <p>Visit our Terms of Service page to learn more about our terms & conditions.</p>                            
+                            <h5>Terms of Use</h5>
+                            <p>This website outlines the Terms of Use of our website.</p>                            
                         </a>
                     </aside>
                 </div>
@@ -45,8 +45,8 @@
                     <aside>
                         <a href="#">
                             <img src="images/Terms-of-Use.png" alt="">
-                            <h5>Terms of Service</h5>
-                            <p>Visit our Terms of Service page to learn more about our terms & conditions.</p>                            
+                            <h5>Privacy Policy</h5>
+                            <p>Visit our Privacy Policy page to learn more about our privacy policy.</p>                            
                         </a>
                     </aside>
                 </div>
@@ -54,8 +54,8 @@
                     <aside>
                         <a href="#">
                             <img src="images/Terms-of-Use.png" alt="">
-                            <h5>Terms of Service</h5>
-                            <p>Visit our Terms of Service page to learn more about our terms & conditions.</p>                            
+                            <h5>Dangerous Goods/HAZMAT</h5>
+                            <p>Only certain items can ship under Dangerous Goods as permitted.</p>                            
                         </a>
                     </aside>
                 </div>
@@ -63,8 +63,8 @@
                     <aside>
                         <a href="#">
                             <img src="images/Terms-of-Use.png" alt="">
-                            <h5>Terms of Service</h5>
-                            <p>Visit our Terms of Service page to learn more about our terms & conditions.</p>                            
+                            <h5>Prohibited Items</h5>
+                            <p>We can not store or ship the items in our Prohibited Items list.</p>                            
                         </a>
                     </aside>
                 </div>
@@ -72,8 +72,8 @@
                     <aside>
                         <a href="#">
                             <img src="images/Terms-of-Use.png" alt="">
-                            <h5>Terms of Service</h5>
-                            <p>Visit our Terms of Service page to learn more about our terms & conditions.</p>                            
+                            <h5>Sevice-Level Agreements (SLAs)</h5>
+                            <p>SLAs provide details on processing and turnaround time for our services.</p>                            
                         </a>
                     </aside>
                 </div>

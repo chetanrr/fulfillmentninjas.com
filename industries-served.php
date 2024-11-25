@@ -48,7 +48,7 @@
                 <div class="col-12 col-lg-4 mb-4">
                     <aside class="flex-column">
                         <img class="" src="images/Apparel.png" alt="">
-                        <h6 class="mt-3">Apparel</h6>
+                        <h6 class="mt-3">Skincare & Cosmetics</h6>
                         <strong>
                             <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
                         </strong>
@@ -57,7 +57,7 @@
                 <div class="col-12 col-lg-4 mb-4">
                     <aside class="flex-column">
                         <img class="" src="images/Apparel.png" alt="">
-                        <h6 class="mt-3">Apparel</h6>
+                        <h6 class="mt-3">Consumer Electronics</h6>
                         <strong>
                             <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
                         </strong>
@@ -66,7 +66,7 @@
                 <div class="col-12 col-lg-4 mb-4">
                     <aside class="flex-column">
                         <img class="" src="images/Apparel.png" alt="">
-                        <h6 class="mt-3">Apparel</h6>
+                        <h6 class="mt-3">Supplements</h6>
                         <strong>
                             <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
                         </strong>
@@ -75,7 +75,88 @@
                 <div class="col-12 col-lg-4 mb-4">
                     <aside class="flex-column">
                         <img class="" src="images/Apparel.png" alt="">
-                        <h6 class="mt-3">Apparel</h6>
+                        <h6 class="mt-3">CBD Products</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Furniture</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Toys and Games</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Pet Products</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Fitness</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">PPE</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Jewelry</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Books</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Baby Products</h6>
+                        <strong>
+                            <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
+                        </strong>
+                    </aside>
+                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <aside class="flex-column">
+                        <img class="" src="images/Apparel.png" alt="">
+                        <h6 class="mt-3">Household Products</h6>
                         <strong>
                             <a href="#">Explore <i class="fa-solid fa-circle-arrow-right"></i></a>
                         </strong>
