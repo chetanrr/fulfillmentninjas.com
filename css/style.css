@@ -645,3 +645,17 @@ footer .warehouse .col-12 > a:hover {
     width:140px;
     object-fit: contain;
 }
+
+.amazon-resources aside {
+    padding:25px;
+    text-align:center;
+    box-shadow: 0px 0px 4px 0px #ced3e0;
+    border: 1px solid #ced3e0;
+    border-radius:8px;
+    margin-bottom:30px;
+}
+.amazon-resources aside i {
+    font-size:38px;
+    color:var(--primary);
+    margin-bottom:15px;
+}
