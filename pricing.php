@@ -145,7 +145,7 @@
                         </select>
                         <ul class="pallet-size">
                             <li>
-                                <img src="images/Small-Bin.png" alt="">
+                                <img src="images/Small-Bin.png" alt="" class="w-100">
                                 <div>
                                     <p class="lead mb-0">$3/mo</p>
                                     <div>10 x 12 x 8"</div>
@@ -153,7 +153,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="images/Large-Bin.png" alt="">
+                                <img src="images/Large-Bin.png" alt="" class="w-100">
                                 <div>
                                     <p class="lead mb-0">$5/mo</p>
                                     <div>12 x 24 x 12"</div>
@@ -161,7 +161,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="images/Shelf.png" alt="">
+                                <img src="images/Shelf.png" alt="" class="w-100">
                                 <div>
                                     <p class="lead mb-0">$20/mo</p>
                                     <div>60 x 24 x 18"</div>
@@ -169,7 +169,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="images/pallet.png" alt="">
+                                <img src="images/pallet.png" alt="" class="w-100">
                                 <div>
                                     <p class="lead mb-0">$40/mo</p>
                                     <div>40 x 48 x 55"</div>

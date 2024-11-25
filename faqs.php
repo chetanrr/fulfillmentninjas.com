@@ -335,7 +335,7 @@
                             </div>
                         </div>
                     </div>
-                    <h3 id="general"><i class="fa-solid fa-circle-info text-secondary"></i>General</h3>
+                    <h3 id="general"><i class="fa-solid fa-circle-info text-secondary"></i> General</h3>
                     <div class="accordion mb-5" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -374,22 +374,19 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseGeneral3" aria-expanded="false" aria-controls="collapseGeneral3">
-                                    What are your payment terms? Is it Net 30 days?
+                                    I want to ship my items out the same day you receive them, is that possible?
                                 </button>
                             </h2>
-                            <div id="collapseBilling3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseGeneral3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                            <ul>
-                                <li>We bill at the start of each month for the previous month’s services.</li>
-                                <li>Invoices are due within 7 days.</li>
-                            </ul>
+                                No. We require 3 days for processing receiving for inbound shipments.
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling4" aria-expanded="false" aria-controls="collapseBilling4">
+                                    data-bs-target="#collapseGeneral4" aria-expanded="false" aria-controls="collapseGeneral4">
                                     Are your storage fees pro-rated?
                                 </button>
                             </h2>
