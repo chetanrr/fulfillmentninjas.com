@@ -116,7 +116,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">EDI Capabilities</div>
-                    <p class="lead py-3">SHIPHYPE uses SPS Commerce to seamlessly connect to retailers for EDI-automated workflows.</p>
+                    <p class="lead py-3">FULFILLMENT NINJAS uses SPS Commerce to seamlessly connect to retailers for EDI-automated workflows.</p>
                     <div class="tick-list">
                         <ul>
                             <li>B2B Orders: We ship orders to big box, and all brick-and-mortar retailers, fulfilling all compliance requirements.</li>
@@ -134,7 +134,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">CSV Upload</div>
-                    <p class="lead py-3">You have the ability to import orders via CSV. This allows you to export orders from other platforms and have SHIPHYPE fulfill them.</p>                    
+                    <p class="lead py-3">You have the ability to import orders via CSV. This allows you to export orders from other platforms and have FULFILLMENT NINJAS fulfill them.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
@@ -210,7 +210,7 @@
     <section class="pattern-block">
         <div class="container">
             <h1>Solutions for every Business</h1>            
-            <a href="#" class="btn btn-primary btn-lg">View Pricing</a>
+            <a href="pricing.php" class="btn btn-primary btn-lg">View Pricing</a>
         </div>
     </section>
 

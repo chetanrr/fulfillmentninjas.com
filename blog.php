@@ -35,20 +35,20 @@
                 <div class="col-12 col-lg-4 mb-5">
                     <aside>
                         <img src="images/Charging-Sales-Tax-to-Canadian-Customers_shiphype.png" alt="">
-                        <h6 class="mt-3">Four Ways to Improve Your Ecommerce Returns Management</h6>
+                        <h6 class="mt-3">Charging Sales Tax to Canadian Customers</h6>
                         <div class="d-flex justify-content-between">
-                            <strong>By DCL Logistics</strong>
-                            <small>Published May 21, 2022</small>
+                            <strong>By Team FULFILLMENT NINJAS</strong>
+                            <small>Published August 07, 2020</small>
                         </div>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4 mb-5">
                     <aside>
                         <img src="images/10-Things-to-Look-for-When-Hiring-a-FBA-Prep-Center-in-shiphype.png" alt="">
-                        <h6 class="mt-3">Four Ways to Improve Your Ecommerce Returns Management</h6>
+                        <h6 class="mt-3">10 Things to Look for When Hiring an FBA Prep Center</h6>
                         <div class="d-flex justify-content-between">
-                            <strong>By DCL Logistics</strong>
-                            <small>Published May 21, 2022</small>
+                            <strong>By Team FULFILLMENT NINJAS</strong>
+                            <small>Published October 18, 2020</small>
                         </div>
                     </aside>
                 </div>
