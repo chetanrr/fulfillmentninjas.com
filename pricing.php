@@ -310,7 +310,43 @@
                     <a href="#" class="btn btn-secondary">Contact Sales</a>
                 </div>
             </div>
-            <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab" tabindex="0">Tab Three Content</div>
+            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
+                <table class="service-summary-table w-100">
+                    <tbody>
+                        <tr class="header bg-primary">
+                            <td colspan="4" rowspan="1">
+                                <div class="h2 text-white mb-0">Pricing Structure</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="tt66"><strong>Pick &amp; Pack</strong></td>
+                            <td colspan="3" style="background: transparent;">Varies based on packaging and number of picks, starting at
+                                <b><span class="price multi-price" data-usd="1">$1</span> per order</b></td>
+                        </tr>
+                        <tr>
+                            <td class="tt66"><strong>Shipping</strong></td>
+                            <td colspan="3" style="background: transparent;">Varies based on weight, dimensions and delivery zone, from
+                                <b><span class="price multi-price" data-usd="4.01">$4.01</span></b></td>
+                        </tr>
+                        <tr>
+                            <td class="tt66"><strong>Storage</strong></td>
+                            <td width="75%" colspan="3" style="background: transparent;"><b>FREE</b></td>
+                        </tr>
+                        <tr>
+                            <td class="tt66" width="25%"><strong>Receiving</strong></td>
+                            <td width="75%" colspan="3" style="background: transparent;"><b>FREE</b></td>
+                        </tr>
+                        <tr>
+                            <td class="tt66"><strong>Account Management</strong></td>
+                            <td colspan="3" style="background: transparent;"><b>FREE</b></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="text-center">
+                    <p class="my-3">Pricing will vary based on additional factors - including number of SKUs, and storage space required.</p>
+                    <a href="#" class="btn btn-secondary">Contact Sales</a>
+                </div>
+            </div>
         </div>
     </div>
   </section>
