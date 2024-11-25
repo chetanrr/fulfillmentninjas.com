@@ -639,3 +639,9 @@ footer .warehouse .col-12 > a:hover {
     justify-content: center;
     margin-bottom:35px;
 }
+
+.shadow-box aside img {
+    height:90px;
+    width:140px;
+    object-fit: contain;
+}
