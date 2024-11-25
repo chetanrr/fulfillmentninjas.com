@@ -46,7 +46,7 @@
                             <li class="my-2">Dedicated account reps</li>
                         </ul>
                     </article>
-                    <a href="#" class="btn btn-primary price-footer">View Pricing</a>
+                    <a href="pricing.php" class="btn btn-primary price-footer">View Pricing</a>
                 </aside>
             </div>
             <div class="col-12 col-lg-6">
@@ -68,7 +68,7 @@
                             </table>
                         </div>                        
                     </article>
-                    <a href="#" class="btn price-footer">Contact Sales</a>
+                    <a href="pricing.php" class="btn price-footer">Contact Sales</a>
                 </aside>
             </div>
         </div>
