@@ -46,15 +46,56 @@
                 <thead>
                     <tr class="header">
                         <td colspan="2" class="p-0">
-                            <div class="bg-primary text-white h2 m-0 p-3">Toronto, Ontario, Canada</div>
+                            <div class="bg-primary text-white h2 m-0 p-3">Vancouver, British Columbia, Canada</div>
                         </td>
                     </tr>
                 </thead>
                 <tbody>                    
                     <tr>
                         <td style="width:30%" class="pe-3 pt-5">
-                            <h3 class="text-primary">North York (Head Office)</h3>
-                            <p>3595 St Clair Ave E, Unit 15 Scarborough, ON M1K 1L8 Canada</p>
+                            <h3 class="text-primary">Vancouver</h3>
+                            <p>3511 Viking Way, Unit 12 Richmond, BC V6V 1N6 Canada</p>
+                        </td>
+                        <td>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26538.214224405605!2d-117.94712956866006!3d33.75351297100697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd8757db69fd5%3A0xcf0589f30d70c27d!2sGarden%20Grove%2C%20CA%2092843%2C%20USA!5e0!3m2!1sen!2sin!4v1732567922645!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="service-summary-table w-100 table">
+                <thead>
+                    <tr class="header">
+                        <td colspan="2" class="p-0">
+                            <div class="bg-primary text-white h2 m-0 p-3">Los Angeles, California, United States</div>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>                    
+                    <tr>
+                        <td style="width:30%" class="pe-3 pt-5">
+                            <h3 class="text-primary">Gardena</h3>
+                            <p>19034 S Vermont Ave Gardena, CA 90248 USA</p>
+                        </td>
+                        <td>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26538.214224405605!2d-117.94712956866006!3d33.75351297100697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd8757db69fd5%3A0xcf0589f30d70c27d!2sGarden%20Grove%2C%20CA%2092843%2C%20USA!5e0!3m2!1sen!2sin!4v1732567922645!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="service-summary-table w-100 table">
+                <thead>
+                    <tr class="header">
+                        <td colspan="2" class="p-0">
+                            <div class="bg-primary text-white h2 m-0 p-3">New Jersey, United States</div>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>                    
+                    <tr>
+                        <td style="width:30%" class="pe-3 pt-5">
+                            <h3 class="text-primary">Wallington</h3>
+                            <p>480 Main Avenue, Unit 11 Wallington, NJ 07057
+                            USA</p>
                         </td>
                         <td>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26538.214224405605!2d-117.94712956866006!3d33.75351297100697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd8757db69fd5%3A0xcf0589f30d70c27d!2sGarden%20Grove%2C%20CA%2092843%2C%20USA!5e0!3m2!1sen!2sin!4v1732567922645!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
