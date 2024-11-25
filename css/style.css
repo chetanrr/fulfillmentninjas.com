@@ -659,3 +659,31 @@ footer .warehouse .col-12 > a:hover {
     color:var(--primary);
     margin-bottom:15px;
 }
+
+.industries-served img {
+    object-fit: inherit;
+    height: auto;
+    width: 100%;
+}
+.industries-served {
+    padding:0;
+}
+.industries-served h6 {
+    font-size:28px;
+}
+.industries-served aside {
+    padding:0;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    min-height: 140px;
+    display: flex;
+    margin-bottom:35px;
+    text-align:left;
+}
+.industries-served strong, .industries-served h6 {
+    margin:8px 16px;    
+}
+.industries-served strong a {
+    color:var(--secondary-light);
+    text-decoration:none;
+}
