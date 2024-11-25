@@ -26,7 +26,7 @@
                                 <i class="fa-solid fa-envelope"></i>
                                 <div>
                                     Email Us
-                                    <div class="fw-bold">contact@shiphype.com</div>
+                                    <div class="fw-bold">info@fulfillmentninjas.com</div>
                                 </div>
                             </a>
                             <a href="#" class="d-flex gap-3 mb-3">
@@ -36,7 +36,7 @@
                                     <div class="fw-bold">+1 844.745.1999</div>
                                 </div>
                             </a>
-                            <a href="#" class="d-flex gap-3 mb-3 align-items-center">
+                            <a href="warehouse-locations.php" class="d-flex gap-3 mb-3 align-items-center">
                                 <i class="fa-solid fa-location-dot"></i>
                                 <div>         
                                     <div class="fw-bold">Warehouse Locations</div>
