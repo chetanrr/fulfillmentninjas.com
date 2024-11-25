@@ -28,8 +28,8 @@
                         <li class="list-group-item"><a href="#about">About FULFILLMENT NINJAS</a></li>
                         <li class="list-group-item"><a href="#affiliate">Affiliate Program</a></li>
                         <li class="list-group-item"><a href="#billing">Billing</a></li>
-                        <li class="list-group-item"><a href="#">Carriers</a></li>
-                        <li class="list-group-item"><a href="#">General</a></li>
+                        <li class="list-group-item"><a href="#carriers">Carriers</a></li>
+                        <li class="list-group-item"><a href="#general">General</a></li>
                         <li class="list-group-item"><a href="#">Importing</a></li>
                         <li class="list-group-item"><a href="#">Insurance</a></li>
                         <li class="list-group-item"><a href="#">Integrations</a></li>
@@ -265,16 +265,17 @@
                         </div>
                     </div>
                     <!-- tab jump section ends -->
-                    <h3 id="billing"><i class="fa-solid fa-circle-info text-secondary"></i> Carriers</h3>
+
+                    <h3 id="carriers"><i class="fa-solid fa-circle-info text-secondary"></i> Carriers</h3>
                     <div class="accordion mb-5" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling1" aria-expanded="true" aria-controls="collapseBilling1">
+                                    data-bs-target="#collapseCarriers1" aria-expanded="true" aria-controls="collapseCarriers1">
                                     What carriers do you use for International shipping?
                                 </button>
                             </h2>
-                            <div id="collapseBilling1" class="accordion-collapse collapse show"
+                            <div id="collapseCarriers1" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 We use UPS, FedEx, DHL and APC for international shipments.
@@ -284,11 +285,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling2" aria-expanded="false" aria-controls="collapseBilling2">
+                                    data-bs-target="#collapseCarriers2" aria-expanded="false" aria-controls="collapseCarriers2">
                                     What carriers do you use in Canada?
                                 </button>
                             </h2>
-                            <div id="collapseBilling2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseCarriers2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 In Canada, we use UPS, FedEx and Canada Post.
                                 </div>
@@ -297,11 +298,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling3" aria-expanded="false" aria-controls="collapseBilling3">
+                                    data-bs-target="#collapseCarriers3" aria-expanded="false" aria-controls="collapseCarriers3">
                                     What carriers do you use in USA?
                                 </button>
                             </h2>
-                            <div id="collapseBilling3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseCarriers3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 In the US, we use UPS, USPS and Fedex.
                                 </div>
@@ -310,11 +311,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling4" aria-expanded="false" aria-controls="collapseBilling4">
+                                    data-bs-target="#collapseCarriers4" aria-expanded="false" aria-controls="collapseCarriers4">
                                     If I only want to use a certain carrier, is that possible?
                                 </button>
                             </h2>
-                            <div id="collapseBilling4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseCarriers4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 Yes, it is, but we don't recommend it. When multiple carriers are enabled, we are able to rate-shop and compare the rates across carriers for each shipment. With single carriers, you lose the ability to save where possible.
                                 </div>
@@ -323,27 +324,27 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling5" aria-expanded="false" aria-controls="collapseBilling5">
+                                    data-bs-target="#collapseCarriers5" aria-expanded="false" aria-controls="collapseCarriers5">
                                     Can I use my own carrier account to ship?
                                 </button>
                             </h2>
-                            <div id="collapseBilling5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseCarriers5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 Yes
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <h3 id="billing"><i class="fa-solid fa-circle-info text-secondary"></i>General</h3>
+                    <h3 id="general"><i class="fa-solid fa-circle-info text-secondary"></i>General</h3>
                     <div class="accordion mb-5" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling1" aria-expanded="true" aria-controls="collapseBilling1">
+                                    data-bs-target="#collapseGeneral1" aria-expanded="true" aria-controls="collapseGeneral1">
                                     Will I have someone I can reach out to as needed?
                                 </button>
                             </h2>
-                            <div id="collapseBilling1" class="accordion-collapse collapse show"
+                            <div id="collapseGeneral1" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                             <ol>
@@ -356,11 +357,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling2" aria-expanded="false" aria-controls="collapseBilling2">
+                                    data-bs-target="#collapseGeneral2" aria-expanded="false" aria-controls="collapseGeneral2">
                                     Where will my account manager be based?
                                 </button>
                             </h2>
-                            <div id="collapseBilling2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseGeneral2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                             <ol>
                                 <li>Account managers are based in Canada.</li>
@@ -372,7 +373,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling3" aria-expanded="false" aria-controls="collapseBilling3">
+                                    data-bs-target="#collapseGeneral3" aria-expanded="false" aria-controls="collapseGeneral3">
                                     What are your payment terms? Is it Net 30 days?
                                 </button>
                             </h2>
