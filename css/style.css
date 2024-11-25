@@ -699,3 +699,18 @@ footer .warehouse .col-12 > a:hover {
     color:var(--secondary-light);
     text-decoration:none;
 }
+
+.contact-data i {
+    padding:15px;
+    border-radius:8px;
+    background: var(--secondary);
+    color:white;
+}
+.contact-data a {
+    text-decoration:none;
+    color:var(--body-text);
+}
+
+.contact-data a .fw-bold {
+    color: var(--secondary-light);
+}
