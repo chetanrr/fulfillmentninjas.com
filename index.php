@@ -24,7 +24,7 @@
               <h1>Same-day fulfillment for DTC brands <span class="text-primary">looking to 10x</span></h1>
               <p class="lead">Fulfillment Ninjas is a 3PL/fulfillment center that helps fast-growing brands fulfill orders across all channels - <span class="text-primary">Shopify, TikTok,</span> and everything else.</p>
               <div class="mb-4 mt-4">
-                <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
               </div>
               <em>Speak with our sales team for custom pricing.</em>
             </article>
@@ -236,7 +236,7 @@
                 <div class="col-12 col-lg-6 text-white py-5">
                   <h2>Value Added Services</h2>
                   <p class="lead">We do it all, including Bundling, Labeling, Counting Inventory, Kitting, Polybagging, Bubble Bagging, Photo Requests & more.</p>
-                  <a href="#" class="btn btn-primary btn-lg">Contact Sales</a>
+                  <a href="contact-us.php" class="btn btn-primary btn-lg">Contact Sales</a>
                 </div>
               </div>
             </aside>

@@ -43,7 +43,7 @@
                   <aside><strong>Mon-Fri:</strong> 10AM-5PN PST</aside>
                 </div>
               </a>
-              <a class="btn btn-primary btn-lg ms-3" href="tel:844-394-8143">Contact Sales</a>
+              <a class="btn btn-primary btn-lg ms-3" href="contact-us.php">Contact Sales</a>
             </div>
         </nav>
       </div>
