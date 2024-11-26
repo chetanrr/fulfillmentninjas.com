@@ -95,7 +95,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/integrationwwithsales.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
@@ -106,7 +106,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/flowingorders.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
@@ -117,7 +117,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/pickedpacked.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
@@ -128,7 +128,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/carrierrate.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
@@ -150,7 +150,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/yourstore.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
@@ -162,7 +162,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/trackingnumber.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
@@ -174,7 +174,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/pickeduppackages.png" alt="">
                 </div>
               </div>
         </div>
@@ -214,7 +214,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/sort&put-away.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -225,7 +225,7 @@
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
-                  <img src="images/order1.png" alt="">
+                  <img src="images/purchaseorder.png" alt="">
                 </div>
               </div>
               <div class="row mb-0">
