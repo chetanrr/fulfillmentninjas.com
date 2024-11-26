@@ -382,7 +382,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/shippinglabel.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -393,7 +393,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/returns.png" alt="">
             </div>
           </div>
         </div>
