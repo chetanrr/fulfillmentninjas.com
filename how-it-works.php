@@ -298,7 +298,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/sort&put-away.png.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -309,7 +309,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/prep.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -320,7 +320,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/forwardingrequest.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -331,7 +331,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/pickupcarrier.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -342,7 +342,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/upstruck.png" alt="">
             </div>
           </div>
         </div>
