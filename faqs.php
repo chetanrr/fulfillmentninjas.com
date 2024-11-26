@@ -73,7 +73,7 @@
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                We have locations in Canada and the United States.
+                                    We have locations in the United States. To see the exact addresses, click <a href="warehouse-locations.php">here</a>.
                                 </div>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                We have 2 locations in Canada, and 2 in the United States. You can visit our locations page for more information.
+                                We have 2 locations in the United States. You can visit our locations page for more information.
                                 </div>
                             </div>
                         </div>
@@ -285,19 +285,6 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseCarriers2" aria-expanded="false" aria-controls="collapseCarriers2">
-                                    What carriers do you use in Canada?
-                                </button>
-                            </h2>
-                            <div id="collapseCarriers2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                In Canada, we use UPS, FedEx and Canada Post.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseCarriers3" aria-expanded="false" aria-controls="collapseCarriers3">
                                     What carriers do you use in USA?
                                 </button>
@@ -363,10 +350,10 @@
                             </h2>
                             <div id="collapseGeneral2" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                            <ol>
-                                <li>Account managers are based in Canada.</li>
-                                <li>Their work hours are aligned with the operating hours of the warehouse you are assigned.</li>
-                            </ol>
+                                    <ol>
+                                        <li>Account managers are based in USA.</li>
+                                        <li>Their work hours are aligned with the operating hours of the warehouse you are assigned.</li>
+                                    </ol>
                                 </div>
                             </div>
                         </div>

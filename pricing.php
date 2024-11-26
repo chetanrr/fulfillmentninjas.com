@@ -138,10 +138,8 @@
                     <div class="col-12 col-lg-6">
                         <p class="fw-bold">Which warehouse location are you using?</p>
                         <select class="form-select" aria-label="Default select example">
-                            <option selected>Toronto, Canada</option>
-                            <option value="1">Vancouver, Canada</option>
-                            <option value="2">Los Angeles, United States</option>
-                            <option value="3">Miami, United States</option>
+                            <option value="2" selected>California, United States</option>
+                            <option value="3">Florida, United States</option>
                         </select>
                         <ul class="pallet-size">
                             <li>
@@ -232,14 +230,14 @@
                     </div>
                     <div class="col-12 col-lg-6">
                         <ul class="country-flags">
-                            <li>
+                            <!-- <li>
                                 <img src="images/canada_flag.png" alt="">
                                 <div>
                                     <h4 class="mb-0">Shipping from CANADA</h4>
                                     <div class="my-2">Shipping Prices in Canadian Dollars</div>
                                     <a href="carriers.php" class="btn btn-primary">View Rates</a>
                                 </div>
-                            </li>
+                            </li> -->
                             <li>
                                 <img src="images/usa_flag.png" alt="">
                                 <div>
@@ -367,7 +365,7 @@
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                We have locations across the United States and Canada.
+                We have locations across the United States.
                 </div>
               </div>
             </div>

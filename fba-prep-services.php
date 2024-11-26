@@ -58,7 +58,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Private Label</div>
-                    <p class="lead py-3">We help Amazon Sellers take their business to the next level by entering new markets. We have locations in both USA and Canada where we can store your goods for you and ship them to Amazon on demand.</p>
+                    <p class="lead py-3">We help Amazon Sellers take their business to the next level by entering new markets. We have locations in USA where we can store your goods for you and ship them to Amazon on demand.</p>
                 </article>
             </div>
             <div class="col-12 col-lg-6">

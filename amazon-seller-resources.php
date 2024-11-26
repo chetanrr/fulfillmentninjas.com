@@ -33,14 +33,14 @@
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-bullseye"></i>
-                        <p>200+ FBA Prep Centers from USA, UK, Canada and China.</p>
+                        <p>200+ FBA Prep Centers from USA, UK and China.</p>
                         <h5>FBA Prep Centers</h5>
                     </aside>
                 </div>
                 <div class="col-12 col-lg-4">
                     <aside>
                         <i class="fa-solid fa-chart-column"></i>
-                        <p>300+ eCommerce Fulfillment Centers in USA and Canada</p>
+                        <p>300+ eCommerce Fulfillment Centers in USA</p>
                         <h5>FBM Fulfillment Centers </h5>
                     </aside>
                 </div>

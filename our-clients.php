@@ -284,7 +284,7 @@
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Shopify</li>
-                                <li>Business located in Canada</li>
+                                <li>Business located in USA</li>
                                 <li>Warehouse: Toronto</li>
                             </div>
                         </div>
@@ -399,7 +399,7 @@
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Wayfair & Own website</li>
-                                <li>Business located in Canada</li>
+                                <li>Business located in USA</li>
                                 <li>Warehouse: Vancouver</li>
                             </div>
                         </div>
@@ -430,7 +430,7 @@
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Own website</li>
-                                <li>Business located in Canada</li>
+                                <li>Business located in USA</li>
                                 <li>Warehouse: Vancouver</li>
                             </div>
                         </div>
@@ -476,7 +476,7 @@
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Shopify</li>
-                                <li>Business located in Canada</li>
+                                <li>Business located in USA</li>
                                 <li>Warehouse: Vancouver</li>
                             </div>
                         </div>
@@ -499,7 +499,7 @@
                             </div>
                             <div class="col-md-6">
                                 <li>Channel: Amazon FBM</li>
-                                <li>Business located in Canada</li>
+                                <li>Business located in USA</li>
                                 <li>Warehouse: California</li>
                             </div>
                         </div>

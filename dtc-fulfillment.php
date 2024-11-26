@@ -29,7 +29,7 @@
                     <h2>Same-day shipping</h2>
                     <p class="lead py-3">Best-in-class fulfillment for DTC brands of any volume.</p>
                     <div class="mb-4 mt-4">
-                        <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                        <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
                 </article>
             </div>
@@ -47,7 +47,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Ship Worldwide</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
+                    <p class="lead py-3">You can ship worldwide from our US locations. We handle all the customs information.</p>                    
                 </article>
             </div>
         </div>
@@ -126,22 +126,6 @@
             </div>
         </div>
     </div>
-
-    <section class="bg-secondary text-white">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-12 col-lg-7">
-                    <img class="w-100" src="images/Real-Time-Fulfillment-Software.png" alt="">
-                </div>
-                <div class="col-12 col-lg-5">
-                    <h2>Real-Time <br> Fulfillment Software</h2>
-                    <p class="lead">Easily manage your orders and inventory in real-time with our SHIPHERO-powered
-                        fulfillment
-                        software.</p>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <div class="container banner">
         <div class="row align-items-center">

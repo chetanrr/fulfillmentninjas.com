@@ -26,7 +26,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <h1>Section 321</h1>
-                    <h2>Send packages from Canada to the US duty-free, for products under $800.</h2>
+                    <h2>Send packages from anywhere in US duty-free, for products under $800.</h2>
                     <div class="mb-4 mt-4">
                         <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>

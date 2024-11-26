@@ -123,7 +123,7 @@
                             <li>B2C Orders: Orders placed on retailer websites are shipped direct to consumer.</li>
                         </ul>
                     </div>
-                    <p class="lead py-3">We can connect to 100+ Retailers across USA and Canada.</p>
+                    <p class="lead py-3">We can connect to 100+ Retailers across USA</p>
                 </article>
             </div>            
         </div>

@@ -12,7 +12,7 @@
           <div class="col-12 col-lg-3">
             <h5>Company</h5>
             <ul class="list-unstyled links">
-              <li><a href="about-us.php">About Us</a></li>
+              <li><a href="#">About Us</a></li>
               <li><a href="how-it-works.php">How it Works</a></li>
               <li><a href="carriers.php">Carriers</a></li>
               <li><a href="integrations.php">Integrations</a></li>
@@ -24,8 +24,8 @@
             <h5>Support</h5>
             <ul class="list-unstyled links">
               <li><a href="faqs.php">FAQs</a></li>
-              <li><a href="slas.php">SLAs</a></li>
-              <li><a href="legal-stuff.php">Legal Stuff</a></li>              
+              <li><a href="#">SLAs</a></li>
+              <li><a href="#">Legal Stuff</a></li>
             </ul>
           </div>
           <div class="col-12 col-lg-3">

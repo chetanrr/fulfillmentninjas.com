@@ -29,11 +29,11 @@
                                     <div class="fw-bold">info@fulfillmentninjas.com</div>
                                 </div>
                             </a>
-                            <a href="#" class="d-flex gap-3 mb-3">
+                            <a href="tel:844-394-8143" class="d-flex gap-3 mb-3">
                                 <i class="fa-solid fa-phone"></i>
                                 <div>
                                     Call Us
-                                    <div class="fw-bold">+1 844.745.1999</div>
+                                    <div class="fw-bold">+1 844-394-8143</div>
                                 </div>
                             </a>
                             <a href="warehouse-locations.php" class="d-flex gap-3 mb-3 align-items-center">

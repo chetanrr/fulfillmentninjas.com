@@ -28,7 +28,7 @@
                     <div class="display-5 fw-bold">About Us</div>
                     <p class="lead pt-3 mb-0">Welcome to FULFILLMENT NINJAS - The 3PL of choice for modern eCommerce brands!</p>
                     <hr>
-                    <p class="mt-0 pt-0">With locations in Canada and the United States, we get products to your customers faster. We have 65,000 sqft across our locations. We're growing fast and we strongly believe in perfecting the customer experience. Contact our sales team to take your business to the next level!</p>
+                    <p class="mt-0 pt-0">With locations in the United States, we get products to your customers faster. We have 65,000 sqft across our locations. We're growing fast and we strongly believe in perfecting the customer experience. Contact our sales team to take your business to the next level!</p>
                     <div class="mb-4 mt-4">
                         <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>

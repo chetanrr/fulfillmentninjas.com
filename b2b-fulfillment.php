@@ -58,7 +58,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Order Customization</div>
-                    <p class="lead py-3">You can ship worldwide from our US or Canada locations. We handle all the customs information.</p>                    
+                    <p class="lead py-3">You can ship worldwide from our US locations. We handle all the customs information.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
@@ -75,8 +75,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Experience with Retailers</div>
-                    <p class="lead py-3">We serve all kinds of organizations including schools, government, insurance, big box retailers and manufacturers.
-                    We can connect to 100+ Retailers across USA and Canada.</p>                    
+                    <p class="lead py-3">We serve all kinds of organizations including schools, government, insurance, big box retailers and manufacturers. We can connect to 100+ Retailers across USA.</p>                    
                 </article>
             </div>
         </div>
