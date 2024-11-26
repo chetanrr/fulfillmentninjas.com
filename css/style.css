@@ -307,7 +307,7 @@ footer .warehouse .col-12 > a:hover {
     counter-reset: my-numbered-row;
 }
 .listed-box .row {
-    margin-bottom:180px;
+    margin-bottom:120px;
 }
 .listed-box .numbered::before {
     counter-increment: my-numbered-row;
