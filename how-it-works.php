@@ -22,7 +22,7 @@
   <?php require 'includes/header.php'; ?>
 
   <section class="vid-banner text-center">
-    <video src="images/HowItWorks.mp4" autoplay muted></video>
+    <video src="images/HowItWorks.mp4" autoplay muted loop></video>
     <div class="container py-5 my-5">
       <h1 class="display-4 fw-bold">How it Works</h1>
       <h4>Ready to simplify fulfillment?</h4>
