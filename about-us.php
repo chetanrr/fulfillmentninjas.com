@@ -43,15 +43,15 @@
     <section class="gallery-slider-wrapper">
         <ul class="gallery-slider">
            <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
+           <li><img src="images/gallery-slide2.png" alt=""></li>
+           <li><img src="images/gallery-slide3.png" alt=""></li>
+           <li><img src="images/gallery-slide4.png" alt=""></li>
+           <li><img src="images/gallery-slide5.png" alt=""></li>
+           <li><img src="images/gallery-slide6.png" alt=""></li>
+           <li><img src="images/gallery-slide7.png" alt=""></li>
+           <li><img src="images/gallery-slide8.png" alt=""></li>
+           <li><img src="images/gallery-slide9.png" alt=""></li>
+           <li><img src="images/gallery-slide10.png" alt=""></li>
            <li><img src="images/gallery-slide1.png" alt=""></li>
            <li><img src="images/gallery-slide1.png" alt=""></li>
            <li><img src="images/gallery-slide1.png" alt=""></li>
