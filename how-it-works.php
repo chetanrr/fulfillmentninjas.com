@@ -418,22 +418,7 @@
           <p class="lead mt-4">Efficient, accurate order fulfillment tailored to your business needs.</p>
         </div>
         <div class="col-12 col-lg-6">
-          <img class="w-100 rounded" src="images/warehouse.png" alt="">
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="bg-secondary text-white">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-12 col-lg-7">
-          <img class="w-100" src="images/Real-Time-Fulfillment-Software.png" alt="">
-        </div>
-        <div class="col-12 col-lg-5">
-          <h2>Real-Time <br> Fulfillment Software</h2>
-          <p class="lead">Easily manage your orders and inventory in real-time with our SHIPHERO-powered fulfillment
-            software.</p>
+          <img class="w-100 rounded" src="images/warehouse3.png" alt="">
         </div>
       </div>
     </div>

@@ -284,7 +284,7 @@
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    We have locations in the United States. To see the exact addresses, click the 'Locations' button in the header.
+                    We have locations in the United States. To see the exact addresses, click <a href="warehouse-locations.php">here</a>.
                   </div>
                 </div>
               </div>
