@@ -84,7 +84,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/order1.png" alt="">
+              <img src="images/sort&put-away.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
@@ -186,8 +186,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Send Inventory to our Warehouse</h1>
-                <h4 class="text-secondary">You submit the inventory you will be sending to us through our dashboard. This way, our team is expecting your inventory.
+                <h1 class="fw-bold">Ship Inventory to Our Warehouse</h1>
+                <h4 class="text-secondary">Use our dashboard to submit the inventory you plan to send. This ensures our team is prepared to receive it.
                 </h4>
               </aside>
             </div>
@@ -198,8 +198,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Your Inventory Arrives at our Warehouse</h1>
-                <h4 class="text-secondary">Your inventory arrives at our warehouse in Cartons, Pallets or floor-loaded Containers.</p>
+                <h1 class="fw-bold">Your Inventory is Delivered to Our Warehouse</h1>
+                <h4 class="text-secondary">Your inventory is delivered to our warehouse in cartons, pallets, or floor-loaded containers.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -209,8 +209,8 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">We Sort and Put-Away Inventory</h1>
-                <h4 class="text-secondary">At this point, our Inbound Manager will reach out to you with the final count.</p>
+                <h1 class="fw-bold">We Sort and Store Your Inventory</h1>
+                <h4 class="text-secondary">Our Inbound Manager will contact you with the final inventory count at this stage.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -220,8 +220,8 @@
           <div class="row mb-0">
                 <div class="col-12 col-lg-6 numbered">
                   <aside class="pe-0 pe-lg-5">
-                    <h1 class="fw-bold">You Provide Us with Purchase Orders from Clients</h1>
-                    <h4 class="text-secondary">You submit your orders through the dashboard, or send them to us via EDI.</p>
+                    <h1 class="fw-bold">You Submit Purchase Orders from Your Clients to Us</h1>
+                    <h4 class="text-secondary">You can submit your orders through the dashboard or send them to us via EDI.</p>
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
@@ -231,8 +231,8 @@
               <div class="row mb-0">
                 <div class="col-12 col-lg-6 numbered">
                   <aside class="pe-0 pe-lg-5">
-                    <h1 class="fw-bold">Order is Prepared</h1>
-                    <h4 class="text-secondary">Our warehouse team starts working on packing and preparing your order.</p>
+                    <h1 class="fw-bold">The Order is Processed and Prepared</h1>
+                    <h4 class="text-secondary">Our warehouse team begins packing and preparing your order.</p>
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
@@ -242,8 +242,8 @@
               <div class="row mb-0">
                 <div class="col-12 col-lg-6 numbered">
                   <aside class="pe-0 pe-lg-5">
-                    <h1 class="fw-bold">Carrier Picks Up Order from our Warehouse</h1>
-                    <h4 class="text-secondary">Once the carrier arrives, our warehouse team hands over your order to the carrier so it can be delivered.</p>
+                    <h1 class="fw-bold">The carrier retrieves the order from our warehouse.</h1>
+                    <h4 class="text-secondary">When the carrier arrives, our warehouse team will transfer your order to them for delivery.</p>
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
@@ -253,8 +253,8 @@
               <div class="row mb-0">
                 <div class="col-12 col-lg-6 numbered">
                   <aside class="pe-0 pe-lg-5">
-                    <h1 class="fw-bold">Order Delivered</h1>
-                    <h4 class="text-secondary">The order arrives at your Client/Retailer.</p>
+                    <h1 class="fw-bold">Order Successfully Delivered</h1>
+                    <h4 class="text-secondary">The order is delivered to your client/retailer.</p>
                   </aside>
                 </div>
                 <div class="col-12 col-lg-6 text-center">
@@ -270,8 +270,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Send Inventory to our Warehouse</h1>
-                <h4 class="text-secondary">You submit the inventory you will be sending to us through our dashboard. This way, our team is expecting your inventory.
+                <h1 class="fw-bold">Ship your inventory to our warehouse.</h1>
+                <h4 class="text-secondary">You provide details of the inventory you're sending through our dashboard, so our team can be prepared to receive it.
                 </h4>
               </aside>
             </div>
@@ -282,8 +282,8 @@
           <div class="row">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">Your Inventory Arrives at our Warehouse & You Are Notified</h1>
-                <h4 class="text-secondary">Your inventory arrives at our warehouse in Cartons, Pallets or floor-loaded Containers.</p>
+                <h1 class="fw-bold">Your inventory arrives at our warehouse, and you will be notified.</h1>
+                <h4 class="text-secondary">Your inventory is delivered to our warehouse in cartons, pallets, or floor-loaded containers.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -293,8 +293,8 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">We Sort and Put-Away Inventory</h1>
-                <h4 class="text-secondary">At this point, our Inbound Manager will reach out to you with the final count.</p>
+                <h1 class="fw-bold">We organize and store your inventory.</h1>
+                <h4 class="text-secondary">At this stage, our Inbound Manager will contact you with the final inventory count.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
@@ -304,8 +304,8 @@
           <div class="row mb-0">
             <div class="col-12 col-lg-6 numbered">
               <aside class="pe-0 pe-lg-5">
-                <h1 class="fw-bold">We Do Prep Work (if required)</h1>
-                <h4 class="text-secondary">If you need us to do any prep work, such as FNSKU labelling, polybagging, or anything else, we can do it.</p>
+                <h1 class="fw-bold">We handle the preparation work (if needed).</h1>
+                <h4 class="text-secondary">If you require any prep work, such as FNSKU labeling, polybagging, or other tasks, we can take care of it.</p>
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
