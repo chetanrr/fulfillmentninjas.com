@@ -360,7 +360,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/warehouse.png" alt="">
+              <img src="images/shipspackage.png" alt="">
             </div>
           </div>
           <div class="row">
@@ -371,7 +371,7 @@
               </aside>
             </div>
             <div class="col-12 col-lg-6 text-center">
-              <img src="images/warehouse1.png" alt="">
+              <img src="images/packagearr.png" alt="">
             </div>
           </div>
           <div class="row mb-0">
