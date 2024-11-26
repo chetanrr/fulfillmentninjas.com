@@ -20,22 +20,18 @@
               <li><a href="blog.php">Blog</a></li>
             </ul>
           </div>
-          <div class="col-12 col-lg-3">
-            <h5>Services</h5>
-            <ul class="list-unstyled links">
-              <li><a href="#">WRO Label Generator</a></li>
-              <li><a href="#">Dimensional Weight Calculator</a></li>
-              <li><a href="#">All Calculators</a></li>
-              <li><a href="#">Full Pricing Calculator</a></li>
-              <li><a href="#">Affiliate Program</a></li>              
-            </ul>
-          </div>
+          
           <div class="col-12 col-lg-3">
             <h5>Support</h5>
             <ul class="list-unstyled links">
               <li><a href="faqs.php">FAQs</a></li>
-              <li><a href="#">SLAs</a></li>
-              <li><a href="legal-stuff.php">Legal Stuff</a></li>
+              <li><a href="slas.php">SLAs</a></li>
+              <li><a href="legal-stuff.php">Legal Stuff</a></li>              
+            </ul>
+          </div>
+          <div class="col-12 col-lg-3">
+            <h5>Contact us</h5>
+            <ul class="list-unstyled links">
               <li><a href="warehouse-locations.php">Warehouse Locations</a></li>
               <li><a href="#">Upcoming Locations</a></li>
               <li><a href="contact-us.php">Contact Us</a></li>

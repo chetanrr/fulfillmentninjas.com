@@ -729,3 +729,8 @@ footer .warehouse .col-12 > a:hover {
 .contact-data a .fw-bold {
     color: var(--secondary-light);
 }
+
+.customtable table, .customtable table td, .customtable table th {
+border: 1px solid #808080;
+padding: 15px !important;
+}
