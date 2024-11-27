@@ -40,7 +40,7 @@
                 <i class="fa-solid fa-phone-volume text-primary" style="font-size:26px;"></i>
                 <div>
                   <span class="d-block">844-394-8143</span>
-                  <aside><strong>Mon-Fri:</strong> 10AM-5PN PST</aside>
+                  <aside><strong>Mon-Fri:</strong> 10AM-5PM PST</aside>
                 </div>
               </a>
               <a class="btn btn-primary btn-lg ms-3" href="contact-us.php">Contact Sales</a>

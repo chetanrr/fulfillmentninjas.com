@@ -148,7 +148,7 @@
             <div class="col-12 col-lg-6">
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Personalized Support</div>
-                    <p class="lead py-3">We don't believe in ticket-style support. You will have a direct relationship with your account specialist whom you can contact at any time. Partnering with SHIPHYPE gives you the peace of mind and reliability like nothing else.</p>                    
+                    <p class="lead py-3">We don't believe in ticket-style support. You will have a direct relationship with your account specialist whom you can contact at any time. Partnering with FULFILLMENT NINJAS gives you the peace of mind and reliability like nothing else.</p>                    
                 </article>
             </div>
             <div class="col-12 col-lg-6">
