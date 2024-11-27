@@ -15,12 +15,12 @@
                     Services
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="dtc-fulfillment.php">DTC Fulfillment</a></li>
-                    <li><a class="dropdown-item" href="b2b-fulfillment.php">B2B Fulfillment</a></li>
-                    <li><a class="dropdown-item" href="fba-prep-services.php">FBA Prep Service</a></li>
-                    <li><a class="dropdown-item" href="section-321-fulfillment.php">Section 321</a></li>
-                    <li><a class="dropdown-item" href="subscription-box-fulfillment.php">Subscription Box</a></li>
-                    <li><a class="dropdown-item" href="kitting-services.php">Kitting Services</a></li>
+                    <li><a class="dropdown-item" href="#">DTC Fulfillment</a></li>
+                    <li><a class="dropdown-item" href="#">B2B Fulfillment</a></li>
+                    <li><a class="dropdown-item" href="#">FBA Prep Service</a></li>
+                    <li><a class="dropdown-item" href="#">Section 321</a></li>
+                    <li><a class="dropdown-item" href="#">Subscription Box</a></li>
+                    <li><a class="dropdown-item" href="3">Kitting Services</a></li>
                   </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -28,12 +28,12 @@
                     Customers
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="customer-reviews.php">Customer Reviews</a></li>
-                    <li><a class="dropdown-item" href="our-clients.php">Our Clients</a></li>                    
+                    <li><a class="dropdown-item" href="#">Customer Reviews</a></li>
+                    <li><a class="dropdown-item" href="#">Our Clients</a></li>                    
                   </ul>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="pricing.php">Pricing</a>
+                  <a class="nav-link active" aria-current="page" href="#">Pricing</a>
                 </li>                
               </ul>
               <a class="contact-phone ms-0 ms-lg-4" href="tel:1.844.745.1999">
