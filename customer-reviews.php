@@ -252,7 +252,7 @@
         <div class="customer-review-slider">
             <div>
               <aside>
-                <img src="images/client1.png" alt="">
+                <img src="images/client2.png" alt="">
                 <p>Fulfillment Ninjas completely transformed our order fulfillment process. Their speed and accuracy are unmatched, and our customers couldn’t be happier with the timely deliveries!</p>
                   <h4 class="text-primary"> Emily R.</h4>
                   <div class="text-muted">Online Boutique Owner</div>
@@ -268,7 +268,7 @@
             </div>
             <div>
               <aside>
-                <img src="images/client1.png" alt="">
+                <img src="images/client3.png" alt="">
                 <p>Switching to Fulfillment Ninjas was the best decision for our e-commerce business. Their state-of-the-art technology makes tracking and managing orders a breeze!</p>
                   <h4 class="text-primary">Liam T.</h4>
                   <div class="text-muted">Tech Gadget Retailer</div>
@@ -276,7 +276,7 @@
             </div>
             <div>
               <aside>
-                <img src="images/client1.png" alt="">
+                <img src="images/client4.png" alt="">
                 <p>We used to struggle with delayed orders and inventory issues, but Fulfillment Ninjas streamlined everything for us. They’ve become an essential part of our business.</p>
                   <h4 class="text-primary">Michael G.</h4>
                   <div class="text-muted">itness Equipment Distributor</div>
@@ -284,7 +284,7 @@
             </div>
             <div>
               <aside>
-                <img src="images/client1.png" alt="">
+                <img src="images/client5.png" alt="">
                 <p>I love how transparent and organized Fulfillment Ninjas is. The real-time updates on inventory and shipping make it so easy to stay on top of my business.</p>
                   <h4 class="text-primary">Olivia J.</h4>
                   <div class="text-muted">Home Decor Store Owner</div>
@@ -292,7 +292,7 @@
             </div>
             <div>
                 <aside>
-                  <img src="images/client1.png" alt="">
+                  <img src="images/client6.png" alt="">
                   <p>As a startup, we needed a reliable fulfillment partner, and Fulfillment Ninjas exceeded our expectations. They’ve made scaling our business seamless.</p>
                   <h4 class="text-primary">Ethan B.</h4>
                   <div class="text-muted">Eco-Friendly Product Line Creator</div>
