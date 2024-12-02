@@ -174,11 +174,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                     Where can I find Pricing?
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 You can view our pricing page by clicking 'Fulfillment Pricing' in the top menu.
@@ -188,11 +188,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     What is your Turnaround Time for preparing kits?
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFive" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 90% of requests are completed within 24 hours.
