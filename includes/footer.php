@@ -13,17 +13,17 @@
             <h5>Company</h5>
             <ul class="list-unstyled links">
               <li><a href="#">About Us</a></li>
-              <li><a href="how-it-works.php">How it Works</a></li>
-              <li><a href="carriers.php">Carriers</a></li>
-              <li><a href="integrations.php">Integrations</a></li>
-              <li><a href="blog.php">Blog</a></li>
+              <li><a href="#">How it Works</a></li>
+              <li><a href="#">Carriers</a></li>
+              <li><a href="#">Integrations</a></li>
+              <li><a href="#">Blog</a></li>
             </ul>
           </div>
           
           <div class="col-12 col-lg-3">
             <h5>Support</h5>
             <ul class="list-unstyled links">
-              <li><a href="faqs.php">FAQs</a></li>
+              <li><a href="#">FAQs</a></li>
               <li><a href="#">SLAs</a></li>
               <li><a href="#">Legal Stuff</a></li>
             </ul>
@@ -31,9 +31,9 @@
           <div class="col-12 col-lg-3">
             <h5>Contact us</h5>
             <ul class="list-unstyled links">
-              <li><a href="warehouse-locations.php">Warehouse Locations</a></li>
+              <li><a href="#">Warehouse Locations</a></li>
               <li><a href="#">Upcoming Locations</a></li>
-              <li><a href="contact-us.php">Contact Us</a></li>
+              <li><a href="#">Contact Us</a></li>
             </ul>
           </div>
         </div>
