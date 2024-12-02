@@ -398,11 +398,11 @@
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                   Will I have a dedicated account manger?
                 </button>
               </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                 Yes, we will assign a dedicated Account Manager who will be your primary point of contact for everything you need. They will help you with onboarding as well as provide ongoing support.
                 </div>
@@ -411,11 +411,11 @@
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                   I have a special project, can you quote me for it?
                 </button>
               </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                 Yes, simply click the Contact Sales button below and fill out the form. Our sales team will provide you with a custom price plan.
                 </div>
@@ -424,11 +424,11 @@
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                   What do I have to pay upon signing up?
                 </button>
               </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                 Upon signing up, you will pay a deposit of $500 USD. This will count towards your monthly invoices. Unused balance is 100% refundable.
                 </div>
@@ -437,11 +437,11 @@
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                   I want to signup, what's next?
                 </button>
               </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                 Click the blue "Contact Sales" button on the top right of the page.
                 </div>
