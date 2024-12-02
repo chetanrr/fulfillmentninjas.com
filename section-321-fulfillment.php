@@ -132,11 +132,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                     Are there restrictions for specific products?																
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <ol>
