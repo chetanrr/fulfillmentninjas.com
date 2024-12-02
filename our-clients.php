@@ -70,7 +70,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-801.png">
                             <span class="company">Quantum</span>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-800.png">
                             <span class="company">Dormotech</span>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-799.png">
                             <span class="company">Adara Rituals</span>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-790.png">
                             <span class="company">Wellkids</span>
                         </div>
                     </div>
@@ -170,8 +170,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">Beauty in a cup</span>
+                            <img src="images/A-785.png">
+                            <span class="company">Standard Self Care</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
@@ -193,8 +193,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">Ajg International</span>
+                            <img src="images/A-783.png">
+                            <span class="company">Tom DiCillo</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
@@ -216,8 +216,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">Purrfect Place</span>
+                            <img src="images/A-782.png">
+                            <span class="company">Intersurgical</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
@@ -239,8 +239,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">Standard Self Care</span>
+                            <img src="images/A-779.png">
+                            <span class="company">Hasa</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
@@ -270,7 +270,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-776.jpg">
                             <span class="company">Movemate Innovations</span>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-775.jpg">
                             <span class="company">PawWise Co.</span>
                         </div>
                     </div>
@@ -316,7 +316,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-773.png">
                             <span class="company">Countdown Calendars</span>
                         </div>
                     </div>
@@ -339,7 +339,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-772.png">
                             <span class="company">MateLaser</span>
                         </div>
                     </div>
@@ -362,7 +362,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-771.png">
                             <span class="company">En Gold</span>
                         </div>
                     </div>
@@ -385,8 +385,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">The Black Clove Enterprise</span>
+                            <img src="images/A-769.png">
+                            <span class="company">The Uzzle</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
@@ -416,7 +416,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-760.png">
                             <span class="company">Brightraiser</span>
                         </div>
                     </div>
@@ -439,7 +439,7 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                            <img src="images/A-759.png">
                             <span class="company">Oliezi Outdoors</span>
                         </div>
                     </div>
@@ -462,8 +462,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">VSC Design Group</span>
+                            <img src="images/A-757.png">
+                            <span class="company">Amerapure Water Company</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
@@ -485,8 +485,8 @@
                 <div class="row client">
                     <div class="col-md-4 px-4">
                         <div class="text-center pt-4">
-                            <img src="images/A-802.png">
-                            <span class="company">Sienvi Fashion</span>
+                            <img src="images/A-755.png">
+                            <span class="company">NovaHerbs</span>
                         </div>
                     </div>
                     <div class="col-md-8 px-4">
