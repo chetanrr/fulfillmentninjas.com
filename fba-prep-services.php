@@ -263,11 +263,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                     Will I be able to Track my Inventory?
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 Yes, you can see your live inventory through our software.
@@ -277,11 +277,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     What is your Turnaround Time for handling requests?
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFive" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 90% of requests are completed within 24 hours.
