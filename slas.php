@@ -244,6 +244,13 @@
                         </tbody>
                     </table>
 
+                    <strong class="d-block mt-3">Please Note</strong>
+                    <ul>
+                        <li>Most requests are processed within 48 hours.</li>
+                        <li>If additional information is required to complete your request, it may take longer.</li>
+                        <li>Once cartons and pallets are ready, they will be given to the carrier next time they pickup.</li>
+                    </ul>
+
 
 
                     <div class="bg-dark text-white p-3 mt-5">
