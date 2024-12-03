@@ -29,7 +29,7 @@
                     <h2>Value added services</h2>
                     <p>Our team can do all the work required before shipping your orders.</p>
                     <div class="mb-4 mt-4">
-                        <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                        <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
                 </article>
             </div>
@@ -59,7 +59,7 @@
                 <article class="pe-5">
                     <div class="display-5 fw-bold">No job is too big or too small</div>
                     <p class="lead py-3">We can prepare any number of kits. We can prepare kits ahead of time speed up shipping.</p>
-                    <a href="#" class="btn btn-primary">Contact Sales</a>
+                    <a href="contact-us.php" class="btn btn-primary">Contact Sales</a>
                 </article>
             </div>
             <div class="col-12 col-lg-6">
@@ -88,7 +88,7 @@
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Kitted exactly to spec</div>
                     <p class="lead py-3">You have the ability to provide us with instructions in the format of your choice (process flow, docks, videos). Based on your instructions, we will create kits exactly how you need them done.</p>
-                    <a href="#" class="btn btn-primary">Contact Sales</a>
+                    <a href="contact-us.php" class="btn btn-primary">Contact Sales</a>
                 </article>
             </div>
             <div class="col-12 col-lg-6">
