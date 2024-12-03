@@ -28,7 +28,7 @@
                     <h1>Amazon FBA Prep Service</h1>
                     <p class="lead py-3">Let us take care of the Prep so you can take care of the growth.</p>
                     <div class="mb-4 mt-4">
-                        <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                        <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
                     <small>Our software makes submitting and tracking requests seamless.</small>
                 </article>
@@ -98,7 +98,7 @@
     <section class="pattern-block">
         <div class="container">
             <h1>Only Pay for What You Need</h1>
-            <a href="#" class="btn btn-primary btn-lg">View Pricing</a>
+            <a href="pricing.php" class="btn btn-primary btn-lg">View Pricing</a>
         </div>
     </section>
 
@@ -146,7 +146,7 @@
                 <article class="pe-5">
                     <div class="display-5 fw-bold">Automate your FBA Business</div>
                     <p class="lead py-3">Put your Amazon business on autopilot and focus on growing your business. Hiring our Prep Center lets you spend your time finding new products or optimizing your current operations.</p>
-                    <a href="#" class="btn btn-primary btn-lg">Contact Sales</a>
+                    <a href="contact-us.php" class="btn btn-primary btn-lg">Contact Sales</a>
                 </article>
             </div>
             <div class="col-12 col-lg-6">
