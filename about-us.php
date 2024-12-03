@@ -52,14 +52,14 @@
            <li><img src="images/gallery-slide8.png" alt=""></li>
            <li><img src="images/gallery-slide9.png" alt=""></li>
            <li><img src="images/gallery-slide10.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
-           <li><img src="images/gallery-slide1.png" alt=""></li>
+           <li><img src="images/gallery-slide11.png" alt=""></li>
+           <li><img src="images/gallery-slide12.png" alt=""></li>
+           <li><img src="images/gallery-slide13.png" alt=""></li>
+           <li><img src="images/gallery-slide14.png" alt=""></li>
+           <li><img src="images/gallery-slide15.png" alt=""></li>
+           <li><img src="images/gallery-slide16.png" alt=""></li>
+           <li><img src="images/gallery-slide17.png" alt=""></li>
+           <li><img src="images/gallery-slide18.png" alt=""></li>
         </ul>
     </section>
 
@@ -147,13 +147,13 @@
                     <img src="images/About-Us_Built-1st.png" alt="">
                 </div>
                 <div class="col-12 col-lg-3">
-                    <img class="mt-5" src="images/About-Us_Built-1st.png" alt="">
+                    <img class="mt-5" src="images/About-Us_Built-2.png" alt="">
                 </div>
                 <div class="col-12 col-lg-3">
-                    <img src="images/About-Us_Built-1st.png" alt="">
+                    <img src="images/About-Us_Built-3.png" alt="">
                 </div>
                 <div class="col-12 col-lg-3">
-                    <img class="mt-5" src="images/About-Us_Built-1st.png" alt="">
+                    <img class="mt-5" src="images/About-Us_Built-4.png" alt="">
                 </div>
             </div>
         </div>
