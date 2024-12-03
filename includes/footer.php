@@ -31,8 +31,7 @@
           <div class="col-12 col-lg-3">
             <h5>Contact us</h5>
             <ul class="list-unstyled links">
-              <li><a href="#">Warehouse Locations</a></li>
-              <li><a href="#">Upcoming Locations</a></li>
+              <li><a href="#">Warehouse Locations</a></li>              
               <li><a href="#">Contact Us</a></li>
             </ul>
           </div>
