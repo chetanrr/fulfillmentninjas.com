@@ -285,11 +285,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                     What WMS software do you use?
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 We use ShipHero.
@@ -299,11 +299,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     What Storage Options do you guys offer?
                                 </button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
+                            <div id="collapseFive" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                 We offer Bin, Shelf and Pallet storage.
