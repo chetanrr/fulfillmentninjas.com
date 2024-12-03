@@ -80,18 +80,18 @@
         <div class="text-center mb-4">
             <ul class="nav nav-pills mb-3 d-inline-flex" id="pills-tab" role="tablist">
                 <li class="nav-item" role="presentation">
-                  <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Less than 1,000 Orders/Month</button>
+                  <button class="nav-link active" id="pills-first-tab" data-bs-toggle="pill" data-bs-target="#pills-first" type="button" role="tab" aria-controls="pills-first" aria-selected="true">Less than 1,000 Orders/Month</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">More than 1,000 Orders/Month</button>
+                  <button class="nav-link" id="pills-second-tab" data-bs-toggle="pill" data-bs-target="#pills-second" type="button" role="tab" aria-controls="pills-second" aria-selected="false">More than 1,000 Orders/Month</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">More than 10,000 Orders/Month</button>
+                  <button class="nav-link" id="pills-third-tab" data-bs-toggle="pill" data-bs-target="#pills-third" type="button" role="tab" aria-controls="pills-third" aria-selected="false">More than 10,000 Orders/Month</button>
                 </li>
             </ul>
         </div>
         <div class="tab-content" id="pills-tabContent">
-            <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
+            <div class="tab-pane fade show active" id="pills-first" role="tabpanel" aria-labelledby="pills-first-tab" tabindex="0">
                 <div class="row mb-5 pb-5">
                     <div class="col-12 col-lg-6">
                         <h1 class="fw-bold"><span class="text-primary">Step 1:</span> Receiving</h1>
@@ -268,7 +268,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
+            <div class="tab-pane fade" id="pills-second" role="tabpanel" aria-labelledby="pills-second-tab" tabindex="0">
                 <table class="service-summary-table w-100">
                     <tbody>
                         <tr class="header bg-primary">
@@ -308,10 +308,10 @@
                     <a href="#" class="btn btn-secondary">Contact Sales</a>
                 </div>
             </div>
-            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
+            <div class="tab-pane fade" id="pills-third" role="tabpanel" aria-labelledby="pills-third-tab" tabindex="0">
                 <table class="service-summary-table w-100">
                     <tbody>
-                        <tr class="header bg-primary">
+                        <tr class="header bg-secondary">
                             <td colspan="4" rowspan="1">
                                 <div class="h2 text-white mb-0">Pricing Structure</div>
                             </td>
