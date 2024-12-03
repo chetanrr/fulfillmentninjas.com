@@ -374,25 +374,25 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseGeneral4" aria-expanded="false" aria-controls="collapseGeneral4">
-                                    Are your storage fees pro-rated?
+                                    I want to ship my items out the same day you receive them, is that possible?
                                 </button>
                             </h2>
-                            <div id="collapseBilling4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseGeneral4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                Yes, our storage fees are pro-rated by the week.
+                                No. We require 3 days for processing receiving for inbound shipments.
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseBilling5" aria-expanded="false" aria-controls="collapseBilling5">
-                                    Can I set up pre-authorized payments?
+                                    data-bs-target="#collapseGeneral5" aria-expanded="false" aria-controls="collapseGeneral5">
+                                    Do you accept international customers?
                                 </button>
                             </h2>
-                            <div id="collapseBilling5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div id="collapseGeneral5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                Yes, absolutely.
+                                Yes, we accept customers from all countries.
                                 </div>
                             </div>
                         </div>
