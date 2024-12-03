@@ -38,8 +38,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-802.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">LifeSpan</span>
                         </div>
                     </div>
@@ -69,8 +68,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-801.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Quantum</span>
                         </div>
                     </div>
@@ -92,8 +90,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-800.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Dormotech</span>
                         </div>
                     </div>
@@ -115,8 +112,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-799.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Adara Rituals</span>
                         </div>
                     </div>
@@ -146,8 +142,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-790.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Wellkids</span>
                         </div>
                     </div>
@@ -169,8 +164,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-785.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Standard Self Care</span>
                         </div>
                     </div>
@@ -192,8 +186,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-783.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Tom DiCillo</span>
                         </div>
                     </div>
@@ -215,8 +208,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-782.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Intersurgical</span>
                         </div>
                     </div>
@@ -238,8 +230,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-779.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Hasa</span>
                         </div>
                     </div>
@@ -269,8 +260,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-776.jpg">
+                        <div class="text-center pt-4">                            
                             <span class="company">Movemate Innovations</span>
                         </div>
                     </div>
@@ -292,8 +282,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-775.jpg">
+                        <div class="text-center pt-4">                            
                             <span class="company">PawWise Co.</span>
                         </div>
                     </div>
@@ -315,8 +304,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-773.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Countdown Calendars</span>
                         </div>
                     </div>
@@ -338,8 +326,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-772.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">MateLaser</span>
                         </div>
                     </div>
@@ -361,8 +348,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-771.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">En Gold</span>
                         </div>
                     </div>
@@ -384,8 +370,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-769.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">The Uzzle</span>
                         </div>
                     </div>
@@ -415,8 +400,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-760.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Brightraiser</span>
                         </div>
                     </div>
@@ -438,8 +422,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-759.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Oliezi Outdoors</span>
                         </div>
                     </div>
@@ -461,8 +444,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-757.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">Amerapure Water Company</span>
                         </div>
                     </div>
@@ -484,8 +466,7 @@
                 </div>
                 <div class="row client">
                     <div class="col-md-4 px-4">
-                        <div class="text-center pt-4">
-                            <img src="images/A-755.png">
+                        <div class="text-center pt-4">                            
                             <span class="company">NovaHerbs</span>
                         </div>
                     </div>
