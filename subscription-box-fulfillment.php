@@ -28,7 +28,7 @@
                     <h1>Subscription Box Fulfillment</h1>
                     <h2>Fulfill your subscription box orders. On time. Every time.</h2>
                     <div class="mb-4 mt-4">
-                        <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                        <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
                 </article>
             </div>
@@ -118,7 +118,7 @@
         <div class="container">
             <h1>Customized to Perfection</h1>
             <p>Every Subscription Box Business has it's own set of unique requirements - and we understand that. We'll make sure every box goes out with the level of excellence your customers deserve.</p>
-            <a href="#" class="btn btn-primary btn-lg">View Pricing</a>
+            <a href="pricing.php" class="btn btn-primary btn-lg">View Pricing</a>
         </div>
     </section>
 

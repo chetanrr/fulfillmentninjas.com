@@ -28,7 +28,7 @@
                     <h1>Section 321</h1>
                     <h2>Send packages from anywhere in US duty-free, for products under $800.</h2>
                     <div class="mb-4 mt-4">
-                        <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                        <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
                 </article>
             </div>
