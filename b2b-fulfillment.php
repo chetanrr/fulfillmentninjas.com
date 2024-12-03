@@ -124,7 +124,7 @@
                 </article>
             </div>
             <div class="col-12 col-lg-6">
-                <img src="images/inventory-management.png" alt="">
+                <img src="images/inventory-management1.png" alt="">
             </div>
         </div>
     </div>
