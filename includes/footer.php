@@ -12,27 +12,27 @@
           <div class="col-12 col-lg-3">
             <h5>Company</h5>
             <ul class="list-unstyled links">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">How it Works</a></li>
-              <li><a href="#">Carriers</a></li>
-              <li><a href="#">Integrations</a></li>
-              <li><a href="#">Blog</a></li>
+              <li><a href="about-us.php">About Us</a></li>
+              <li><a href="how-it-works.php">How it Works</a></li>
+              <li><a href="carriers.php">Carriers</a></li>
+              <li><a href="integrations.php">Integrations</a></li>
+              <!--<li><a href="#">Blog</a></li>-->
             </ul>
           </div>
           
           <div class="col-12 col-lg-3">
             <h5>Support</h5>
             <ul class="list-unstyled links">
-              <li><a href="#">FAQs</a></li>
-              <li><a href="#">SLAs</a></li>
-              <li><a href="#">Legal Stuff</a></li>
+              <li><a href="blog.php">FAQs</a></li>
+              <li><a href="slas.php">SLAs</a></li>
+              <li><a href="legal-stuff.php">Legal Stuff</a></li>
             </ul>
           </div>
           <div class="col-12 col-lg-3">
             <h5>Contact us</h5>
             <ul class="list-unstyled links">
-              <li><a href="#">Warehouse Locations</a></li>              
-              <li><a href="#">Contact Us</a></li>
+              <li><a href="warehouse-locations.php">Warehouse Locations</a></li>              
+              <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -43,13 +43,13 @@
         </div>
         <div class="row warehouse">
           <div class="col-12 col-lg-6">
-            <a href="#">
+            <a href="warehouse-locations.php">
               <h6>West Coast</h6>
               <div>Garden Grove, CA 92843</div>
             </a>
           </div>
           <div class="col-12 col-lg-6">
-            <a href="#">
+            <a href="warehouse-locations.php">
               <h6>East Coast</h6>
               <div>DAVIE, FL 33324</div>
             </a>
