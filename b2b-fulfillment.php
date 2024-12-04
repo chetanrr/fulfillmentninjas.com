@@ -29,7 +29,7 @@
                     <h2>Ship cartons or pallets</h2>
                     <p class="lead py-3">We ensure every shipment is delivered according to spec.</p>
                     <div class="mb-4 mt-4">
-                        <a href="#" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
+                        <a href="contact-us.php" class="btn btn-secondary btn-lg px-4 py-3" style="font-size:22px;">Contact Sales</a>
                     </div>
                 </article>
             </div>

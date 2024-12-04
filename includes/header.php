@@ -28,12 +28,12 @@
                     Customers
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Customer Reviews</a></li>
-                    <li><a class="dropdown-item" href="#">Our Clients</a></li>                    
+                    <li><a class="dropdown-item" href="customer-reviews.php">Customer Reviews</a></li>
+                    <li><a class="dropdown-item" href="our-clients.php">Our Clients</a></li>                    
                   </ul>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Pricing</a>
+                  <a class="nav-link active" aria-current="page" href="pricing.php">Pricing</a>
                 </li>                
               </ul>
               <a class="contact-phone ms-0 ms-lg-4" href="tel:1.844.745.1999">

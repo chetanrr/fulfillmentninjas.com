@@ -30,6 +30,7 @@
                         <li class="list-group-item"><a href="#billing">Billing</a></li>
                         <li class="list-group-item"><a href="#carriers">Carriers</a></li>
                         <li class="list-group-item"><a href="#general">General</a></li>
+                        <!--
                         <li class="list-group-item"><a href="#">Importing</a></li>
                         <li class="list-group-item"><a href="#">Insurance</a></li>
                         <li class="list-group-item"><a href="#">Integrations</a></li>
@@ -43,6 +44,7 @@
                         <li class="list-group-item"><a href="#">Software</a></li>
                         <li class="list-group-item"><a href="#">Special Requirements</a></li>
                         <li class="list-group-item"><a href="#">Storage</a></li>
+                        -->
                     </ul>
                 </div>
                 <div class="col-12 col-lg-10">

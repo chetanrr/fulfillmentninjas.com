@@ -68,7 +68,7 @@
                             </table>
                         </div>                        
                     </article>
-                    <a href="pricing.php" class="btn price-footer">Contact Sales</a>
+                    <a href="contact-us.php" class="btn price-footer">Contact Sales</a>
                 </aside>
             </div>
         </div>
@@ -96,7 +96,7 @@
                     <div class="col-12 col-lg-6">
                         <h1 class="fw-bold"><span class="text-primary">Step 1:</span> Receiving</h1>
                         <p class="lead-sm">Once your shipment arrives at our warehouse, we unload and put-away your inventory.</p>
-                        <a href="#" class="btn btn-primary">View FAQs</a>
+                        <a href="faqs.php" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6">
                         <table class="table step-2 fulfillment-table text-center table-spaced">
@@ -133,7 +133,7 @@
                     <div class="col-12 col-lg-6">
                         <h1 class="fw-bold"><span class="text-primary">Step 2:</span> Storage</h1>
                         <p class="lead-sm">Each SKU requires it's own bin, shelf or pallet. Based on the size of your products and the number of units you send, we'll assign the best fit.</p>
-                        <a href="#" class="btn btn-primary">View FAQs</a>
+                        <a href="faqs.php" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6">
                         <p class="fw-bold">Which warehouse location are you using?</p>
@@ -184,7 +184,7 @@
                     <div class="col-12 col-lg-6">
                         <h1 class="fw-bold"><span class="text-primary">Step 3:</span> Pick & Pack</h1>
                         <p class="lead-sm">Our picking & packing fee depends on the packaging materials used for shipping your orders.</p>
-                        <a href="#" class="btn btn-primary">View FAQs</a>
+                        <a href="faqs.php" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6">
                         <p class="fw-bold">What packaging will be used to ship your order?</p>
@@ -226,7 +226,7 @@
                     <div class="col-12 col-lg-6">
                         <h1 class="fw-bold"><span class="text-primary">Step 4:</span> Shipping Rates</h1>
                         <p class="lead-sm">Besides the picking cost, this is the postage rate we will charge to ship your orders.</p>
-                        <a href="#" class="btn btn-primary">View FAQs</a>
+                        <a href="faqs.php" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6">
                         <ul class="country-flags">
@@ -259,7 +259,7 @@
                             <img src="images/acc-03.png" title="Tanisha" alt="">
                             <img src="images/acc-04.png" title="Chetan" alt="">
                         </div>
-                        <a href="#" class="btn btn-primary">View FAQs</a>
+                        <a href="faqs.php" class="btn btn-primary">View FAQs</a>
                     </div>
                     <div class="col-12 col-lg-6 text-center">
                         <div class="d-flex align-items-center justify-content-center">
@@ -305,13 +305,13 @@
                 </table>
                 <div class="text-center">
                     <p class="my-3">Pricing will vary based on additional factors - including number of SKUs, and storage space required.</p>
-                    <a href="#" class="btn btn-secondary">Contact Sales</a>
+                    <a href="contact-us.php" class="btn btn-secondary">Contact Sales</a>
                 </div>
             </div>
             <div class="tab-pane fade" id="pills-third" role="tabpanel" aria-labelledby="pills-third-tab" tabindex="0">
                 <table class="service-summary-table w-100">
                     <tbody>
-                        <tr class="header bg-secondary">
+                        <tr class="header bg-primary">
                             <td colspan="4" rowspan="1">
                                 <div class="h2 text-white mb-0">Pricing Structure</div>
                             </td>
@@ -342,7 +342,7 @@
                 </table>
                 <div class="text-center">
                     <p class="my-3">Pricing will vary based on additional factors - including number of SKUs, and storage space required.</p>
-                    <a href="#" class="btn btn-secondary">Contact Sales</a>
+                    <a href="contact-us.php" class="btn btn-secondary">Contact Sales</a>
                 </div>
             </div>
         </div>
