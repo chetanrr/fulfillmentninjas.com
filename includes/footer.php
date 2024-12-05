@@ -16,7 +16,7 @@
               <li><a href="how-it-works.php">How it Works</a></li>
               <li><a href="carriers.php">Carriers</a></li>
               <li><a href="integrations.php">Integrations</a></li>
-              <!--<li><a href="#">Blog</a></li>-->
+              <!--<li><a href="#">Blog</a></li> Upddate it when we add blogs-->
             </ul>
           </div>
           
