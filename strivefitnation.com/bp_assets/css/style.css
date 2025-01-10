@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+:root{
+  --primaryColor:#2128bd;
+  --primaryDark:#121446;
+  --secondaryColor:#fd143f;
+  --secondaryColorLight: #f5f6fa;
+  --bgColorLight:#fdf8f2;
+  --bgColorLight2:#fbf0e8;
+  --blackish: #040620;
+}
+
+body {font-family: 'Poppins', sans-serif; font-size:15px; background-color: var(--blackish); color:white;}
+h1, h2, h3, h4, h5, h6 {font-weight:400;}
+.navbar-brand {font-weight:700; font-size:40px;}
+.topbox > * {flex-basis:33.333333%; text-align:center;}
+.topbox a {color:white;}
+img {max-width:100%}
+a {text-decoration:none;}
+section{padding:100px 0}
+.container {max-width:1200px;}
+.rounded-4 {border-radius:32px;}
+
+nav {font-size:12px; text-transform:uppercase; line-height:1.2; font-weight:600; letter-spacing:.1em;}
+.nav-link {padding:1.4rem;}
+
+.text-primary {color:var(--primaryColor) !important;}
+.text-primarydark {color:var(--primaryDark);}
+
+.bg-light {background-color:var(--primaryColorLight) !important;}
+.btn {font-size:12px; font-weight: 600; letter-spacing: 0.1em; text-transform:uppercase; padding:16px 32px;}
+.btn-lg {font-size:16px; font-weight: 600; letter-spacing: 0.2em; text-transform:uppercase; padding:18px 40px;}
+.btn-primary, .btn-primary:focus {color: #fff; background-color:var(--primaryColor); border-color:var(--primaryColor);}
+.btn-primary:hover {background-color:var(--primaryDark) !important; border-color: var(--primaryDark) !important;}
+
+.prodDetail img {max-height:500px}
+.prodData img {width:200px; height:200px; object-fit:contain;}
+.prodData aside {background-color:var(--primaryColor); padding:20px; border-radius: 8px; height:100%; transform: scale(1); transition: all 0.3s ease;}
+.prodData aside:hover {transform: scale(1.05);}
+.prodData aside a {display:block; color:white;}
+.prodData aside li {display:flex; align-items:start; margin-bottom:20px; line-height:20px;}
+.prodWrap {height:100%; box-shadow: 0 0 10px rgba(0,0,0,0.1); padding: 25px;}
+
+.blogs .card-body > a {color:var(--primaryDark);}
+
+.ourfeatures aside {padding:35px; background:linear-gradient(-45deg, var(--primaryColor) 0%, var(--primaryDark) 100%); border-radius: 20px; height: 100%;}
+
+.preheader {background-color: var(--primaryColor); color:white;}
+.preheader a {color:white;}
+
+.slick-prev, .slick-next {font-size:0; border:0; height:46px; width:46px; background-color:rgba(0,0,0,.6); border-radius:50px; color:white;}
+.slick-prev:before {content:"\f053"; font-family: "Font Awesome 6 Free"; font-weight: 900; font-size:20px;}
+.slick-next:before {content:"\f054"; font-family: "Font Awesome 6 Free"; font-weight: 900; font-size:20px;}
+.slick-prev {top: 50%; position: absolute; z-index: 1; transform: translateY(-50%);}
+.slick-next {top: 50%; position: absolute; z-index: 1; transform: translateY(-50%); right:0;}
+
+.bannertitle {color:white;}
+
+.fa-star {color:#fdcf00;}
+
+.footer-logo {font-size:34px;}
+
+.supplement .border {display:none;}
+
+.form-control, .form-control[readonly] {background-color:var(--primaryDark) ; color: #6f6f6f;}
+
+[class*="ulWrap"] li {margin-bottom:7px;}
+[class*="ulWrap"] li:before {content:"✔"; font-family: "Font Awesome 6 Free"; font-weight: 900; margin-right: 10px; color:var(--secondaryColor);}
+
+.subscribebox {padding:25px; border-radius:30px; box-shadow:0 0 12px rgba(0,0,0,0.1);}
+
+.accordion-button {font-size:18px;}
+.accordion-button:hover {background-color: rgba(255, 255, 255, 0.1);}
+.accordion-button, .accordion-button:not(.collapsed) {background-color:transparent; color:white;}
+.accordion-button:before {content:"\f14a"; display:block; font-family: "Font Awesome 6 Free"; font-size:24px; margin-right: 10px;}
+.accordion-item {background-color:transparent; border-top: 1px solid rgba(255, 255, 255, 0.15); border-bottom: 1px solid rgba(255, 255, 255, 0.15); border-left:0; border-right:0;}
+.accordion-item:first-of-type, .accordion-item:last-of-type {border-radius:0;}
+
+#agreement {margin-right:.5rem; height:15px; width:15px; float:left; margin: 3px 10px 0 0;}
+
+.productlist .input-group>.form-control{flex:0 0 60px}
+.cart-image{height:45px;width:45px;object-fit:contain}
+.table-cart td{vertical-align:middle}
+.fa-circle-xmark{cursor:pointer}
+#fields_note{width:100%;display:block}
+.fa-circle-xmark{font-size:28px}
+
+.total_agree{margin-right:5px}
+.err_msg{background:#ffb6c1;border:1px solid red;padding:15px;border-radius:4px;box-shadow:0 0 10px rgba(0,0,0,.3);color:#8b0000;font-size:14px}
+.err_msg em{font-style:normal}
+.E-Book .qtyPackage{display:none;}
